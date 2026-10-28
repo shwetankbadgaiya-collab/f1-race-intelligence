@@ -1,0 +1,6830 @@
+{
+  "overview": {
+    "total_races": 299,
+    "total_drivers": 42,
+    "total_constructors": 22,
+    "total_circuits": 33,
+    "total_podiums": 897,
+    "classified_finishes": 5103,
+    "unclassified_finishes": 842,
+    "season_range": "2010-2024"
+  },
+  "championship_trends": [
+    {
+      "season": 2010,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 626.0,
+      "position": 1,
+      "wins": 11
+    },
+    {
+      "season": 2010,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 424.0,
+      "position": 2,
+      "wins": 4
+    },
+    {
+      "season": 2010,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 333.0,
+      "position": 3,
+      "wins": 3
+    },
+    {
+      "season": 2010,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 134.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2010,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 76.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2010,
+      "constructor": "Force India",
+      "constructor_id": 8,
+      "points": 71.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2010,
+      "constructor": "Renault",
+      "constructor_id": 5,
+      "points": 69.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2010,
+      "constructor": "Scuderia Toro Rosso",
+      "constructor_id": 10,
+      "points": 40.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2010,
+      "constructor": "Sauber",
+      "constructor_id": 14,
+      "points": 25.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2010,
+      "constructor": "Caterham",
+      "constructor_id": 19,
+      "points": 9.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2010,
+      "constructor": "HRT",
+      "constructor_id": 22,
+      "points": 6.0,
+      "position": 11,
+      "wins": 0
+    },
+    {
+      "season": 2010,
+      "constructor": "Lotus F1",
+      "constructor_id": 18,
+      "points": 5.0,
+      "position": 12,
+      "wins": 0
+    },
+    {
+      "season": 2010,
+      "constructor": "Marussia",
+      "constructor_id": 20,
+      "points": 0.0,
+      "position": 13,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 618.0,
+      "position": 1,
+      "wins": 13
+    },
+    {
+      "season": 2011,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 482.0,
+      "position": 2,
+      "wins": 5
+    },
+    {
+      "season": 2011,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 326.0,
+      "position": 3,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 105.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "Force India",
+      "constructor_id": 8,
+      "points": 97.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "Lotus F1",
+      "constructor_id": 18,
+      "points": 65.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "Renault",
+      "constructor_id": 5,
+      "points": 59.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "Scuderia Toro Rosso",
+      "constructor_id": 10,
+      "points": 32.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 21.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "Sauber",
+      "constructor_id": 14,
+      "points": 11.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "Marussia",
+      "constructor_id": 20,
+      "points": 2.0,
+      "position": 11,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "HRT",
+      "constructor_id": 22,
+      "points": 0.0,
+      "position": 12,
+      "wins": 0
+    },
+    {
+      "season": 2011,
+      "constructor": "Caterham",
+      "constructor_id": 19,
+      "points": 0.0,
+      "position": 13,
+      "wins": 0
+    },
+    {
+      "season": 2012,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 533.0,
+      "position": 1,
+      "wins": 11
+    },
+    {
+      "season": 2012,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 503.0,
+      "position": 2,
+      "wins": 5
+    },
+    {
+      "season": 2012,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 383.0,
+      "position": 3,
+      "wins": 1
+    },
+    {
+      "season": 2012,
+      "constructor": "Lotus F1",
+      "constructor_id": 18,
+      "points": 225.0,
+      "position": 4,
+      "wins": 1
+    },
+    {
+      "season": 2012,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 74.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2012,
+      "constructor": "Force India",
+      "constructor_id": 8,
+      "points": 58.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2012,
+      "constructor": "Sauber",
+      "constructor_id": 14,
+      "points": 31.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2012,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 9.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2012,
+      "constructor": "Scuderia Toro Rosso",
+      "constructor_id": 10,
+      "points": 2.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2012,
+      "constructor": "Caterham",
+      "constructor_id": 19,
+      "points": 0.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2012,
+      "constructor": "Marussia",
+      "constructor_id": 20,
+      "points": 0.0,
+      "position": 11,
+      "wins": 0
+    },
+    {
+      "season": 2012,
+      "constructor": "HRT",
+      "constructor_id": 22,
+      "points": 0.0,
+      "position": 12,
+      "wins": 0
+    },
+    {
+      "season": 2013,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 677.0,
+      "position": 1,
+      "wins": 15
+    },
+    {
+      "season": 2013,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 340.0,
+      "position": 2,
+      "wins": 1
+    },
+    {
+      "season": 2013,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 286.0,
+      "position": 3,
+      "wins": 1
+    },
+    {
+      "season": 2013,
+      "constructor": "Lotus F1",
+      "constructor_id": 18,
+      "points": 264.0,
+      "position": 4,
+      "wins": 1
+    },
+    {
+      "season": 2013,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 138.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2013,
+      "constructor": "Force India",
+      "constructor_id": 8,
+      "points": 66.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2013,
+      "constructor": "Scuderia Toro Rosso",
+      "constructor_id": 10,
+      "points": 29.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2013,
+      "constructor": "Sauber",
+      "constructor_id": 14,
+      "points": 12.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2013,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 6.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2013,
+      "constructor": "Marussia",
+      "constructor_id": 20,
+      "points": 0.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2013,
+      "constructor": "Caterham",
+      "constructor_id": 19,
+      "points": 0.0,
+      "position": 11,
+      "wins": 0
+    },
+    {
+      "season": 2014,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 741.0,
+      "position": 1,
+      "wins": 18
+    },
+    {
+      "season": 2014,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 413.0,
+      "position": 2,
+      "wins": 1
+    },
+    {
+      "season": 2014,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 224.0,
+      "position": 3,
+      "wins": 0
+    },
+    {
+      "season": 2014,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 159.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2014,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 153.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2014,
+      "constructor": "Force India",
+      "constructor_id": 8,
+      "points": 121.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2014,
+      "constructor": "Scuderia Toro Rosso",
+      "constructor_id": 10,
+      "points": 56.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2014,
+      "constructor": "Sauber",
+      "constructor_id": 14,
+      "points": 32.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2014,
+      "constructor": "Lotus F1",
+      "constructor_id": 18,
+      "points": 20.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2014,
+      "constructor": "Marussia",
+      "constructor_id": 20,
+      "points": 0.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2015,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 761.0,
+      "position": 1,
+      "wins": 19
+    },
+    {
+      "season": 2015,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 398.0,
+      "position": 2,
+      "wins": 0
+    },
+    {
+      "season": 2015,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 258.0,
+      "position": 3,
+      "wins": 0
+    },
+    {
+      "season": 2015,
+      "constructor": "Force India",
+      "constructor_id": 8,
+      "points": 197.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2015,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 182.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2015,
+      "constructor": "Scuderia Toro Rosso",
+      "constructor_id": 10,
+      "points": 72.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2015,
+      "constructor": "Lotus F1",
+      "constructor_id": 18,
+      "points": 25.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2015,
+      "constructor": "Sauber",
+      "constructor_id": 14,
+      "points": 15.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2015,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 9.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2015,
+      "constructor": "Renault",
+      "constructor_id": 5,
+      "points": 2.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2015,
+      "constructor": "Manor Marussia",
+      "constructor_id": 21,
+      "points": 0.0,
+      "position": 11,
+      "wins": 0
+    },
+    {
+      "season": 2016,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 754.0,
+      "position": 1,
+      "wins": 16
+    },
+    {
+      "season": 2016,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 450.0,
+      "position": 2,
+      "wins": 1
+    },
+    {
+      "season": 2016,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 427.0,
+      "position": 3,
+      "wins": 4
+    },
+    {
+      "season": 2016,
+      "constructor": "Force India",
+      "constructor_id": 8,
+      "points": 212.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2016,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 115.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2016,
+      "constructor": "Scuderia Toro Rosso",
+      "constructor_id": 10,
+      "points": 54.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2016,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 51.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2016,
+      "constructor": "Haas F1 Team",
+      "constructor_id": 17,
+      "points": 49.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2016,
+      "constructor": "Renault",
+      "constructor_id": 5,
+      "points": 9.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2016,
+      "constructor": "Sauber",
+      "constructor_id": 14,
+      "points": 0.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2016,
+      "constructor": "Manor Marussia",
+      "constructor_id": 21,
+      "points": 0.0,
+      "position": 11,
+      "wins": 0
+    },
+    {
+      "season": 2017,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 725.0,
+      "position": 1,
+      "wins": 17
+    },
+    {
+      "season": 2017,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 488.0,
+      "position": 2,
+      "wins": 2
+    },
+    {
+      "season": 2017,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 377.0,
+      "position": 3,
+      "wins": 1
+    },
+    {
+      "season": 2017,
+      "constructor": "Force India",
+      "constructor_id": 8,
+      "points": 166.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2017,
+      "constructor": "Scuderia Toro Rosso",
+      "constructor_id": 10,
+      "points": 80.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2017,
+      "constructor": "Renault",
+      "constructor_id": 5,
+      "points": 63.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2017,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 58.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2017,
+      "constructor": "Haas F1 Team",
+      "constructor_id": 17,
+      "points": 34.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2017,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 19.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2017,
+      "constructor": "Sauber",
+      "constructor_id": 14,
+      "points": 10.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2018,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 709.0,
+      "position": 1,
+      "wins": 12
+    },
+    {
+      "season": 2018,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 532.0,
+      "position": 2,
+      "wins": 6
+    },
+    {
+      "season": 2018,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 436.0,
+      "position": 3,
+      "wins": 3
+    },
+    {
+      "season": 2018,
+      "constructor": "Renault",
+      "constructor_id": 5,
+      "points": 133.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2018,
+      "constructor": "Force India",
+      "constructor_id": 8,
+      "points": 126.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2018,
+      "constructor": "Haas F1 Team",
+      "constructor_id": 17,
+      "points": 93.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2018,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 46.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2018,
+      "constructor": "Scuderia Toro Rosso",
+      "constructor_id": 10,
+      "points": 26.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2018,
+      "constructor": "Sauber",
+      "constructor_id": 14,
+      "points": 18.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2018,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 2.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2019,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 769.0,
+      "position": 1,
+      "wins": 16
+    },
+    {
+      "season": 2019,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 483.0,
+      "position": 2,
+      "wins": 3
+    },
+    {
+      "season": 2019,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 408.0,
+      "position": 3,
+      "wins": 2
+    },
+    {
+      "season": 2019,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 235.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2019,
+      "constructor": "Racing Point",
+      "constructor_id": 9,
+      "points": 96.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2019,
+      "constructor": "Renault",
+      "constructor_id": 5,
+      "points": 84.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2019,
+      "constructor": "Alfa Romeo",
+      "constructor_id": 15,
+      "points": 33.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2019,
+      "constructor": "Scuderia Toro Rosso",
+      "constructor_id": 10,
+      "points": 17.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2019,
+      "constructor": "Haas F1 Team",
+      "constructor_id": 17,
+      "points": 16.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2019,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 0.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2020,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 630.0,
+      "position": 1,
+      "wins": 14
+    },
+    {
+      "season": 2020,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 258.0,
+      "position": 2,
+      "wins": 3
+    },
+    {
+      "season": 2020,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 216.0,
+      "position": 3,
+      "wins": 0
+    },
+    {
+      "season": 2020,
+      "constructor": "Racing Point",
+      "constructor_id": 9,
+      "points": 213.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2020,
+      "constructor": "Renault",
+      "constructor_id": 5,
+      "points": 166.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2020,
+      "constructor": "AlphaTauri",
+      "constructor_id": 11,
+      "points": 110.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2020,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 78.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2020,
+      "constructor": "Alfa Romeo",
+      "constructor_id": 15,
+      "points": 29.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2020,
+      "constructor": "Haas F1 Team",
+      "constructor_id": 17,
+      "points": 23.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2020,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 8.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2021,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 680.0,
+      "position": 1,
+      "wins": 12
+    },
+    {
+      "season": 2021,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 602.0,
+      "position": 2,
+      "wins": 9
+    },
+    {
+      "season": 2021,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 250.0,
+      "position": 3,
+      "wins": 0
+    },
+    {
+      "season": 2021,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 238.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2021,
+      "constructor": "Alpine F1 Team",
+      "constructor_id": 6,
+      "points": 184.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2021,
+      "constructor": "AlphaTauri",
+      "constructor_id": 11,
+      "points": 81.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2021,
+      "constructor": "Aston Martin",
+      "constructor_id": 7,
+      "points": 77.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2021,
+      "constructor": "Alfa Romeo",
+      "constructor_id": 15,
+      "points": 17.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2021,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 8.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2021,
+      "constructor": "Haas F1 Team",
+      "constructor_id": 17,
+      "points": 0.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2022,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 732.0,
+      "position": 1,
+      "wins": 14
+    },
+    {
+      "season": 2022,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 551.0,
+      "position": 2,
+      "wins": 6
+    },
+    {
+      "season": 2022,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 446.0,
+      "position": 3,
+      "wins": 2
+    },
+    {
+      "season": 2022,
+      "constructor": "Alpine F1 Team",
+      "constructor_id": 6,
+      "points": 176.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2022,
+      "constructor": "Alfa Romeo",
+      "constructor_id": 15,
+      "points": 130.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2022,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 118.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2022,
+      "constructor": "Haas F1 Team",
+      "constructor_id": 17,
+      "points": 26.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2022,
+      "constructor": "Aston Martin",
+      "constructor_id": 7,
+      "points": 25.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2022,
+      "constructor": "AlphaTauri",
+      "constructor_id": 11,
+      "points": 22.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2022,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 14.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2023,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 892.0,
+      "position": 1,
+      "wins": 21
+    },
+    {
+      "season": 2023,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 400.0,
+      "position": 2,
+      "wins": 1
+    },
+    {
+      "season": 2023,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 282.0,
+      "position": 3,
+      "wins": 0
+    },
+    {
+      "season": 2023,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 275.0,
+      "position": 4,
+      "wins": 0
+    },
+    {
+      "season": 2023,
+      "constructor": "Aston Martin",
+      "constructor_id": 7,
+      "points": 241.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2023,
+      "constructor": "Alpine F1 Team",
+      "constructor_id": 6,
+      "points": 93.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2023,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 36.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2023,
+      "constructor": "Alfa Romeo",
+      "constructor_id": 15,
+      "points": 12.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2023,
+      "constructor": "AlphaTauri",
+      "constructor_id": 11,
+      "points": 8.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2023,
+      "constructor": "Haas F1 Team",
+      "constructor_id": 17,
+      "points": 2.0,
+      "position": 10,
+      "wins": 0
+    },
+    {
+      "season": 2024,
+      "constructor": "McLaren",
+      "constructor_id": 4,
+      "points": 716.0,
+      "position": 1,
+      "wins": 11
+    },
+    {
+      "season": 2024,
+      "constructor": "Red Bull",
+      "constructor_id": 1,
+      "points": 654.0,
+      "position": 2,
+      "wins": 9
+    },
+    {
+      "season": 2024,
+      "constructor": "Ferrari",
+      "constructor_id": 3,
+      "points": 468.0,
+      "position": 3,
+      "wins": 2
+    },
+    {
+      "season": 2024,
+      "constructor": "Mercedes",
+      "constructor_id": 2,
+      "points": 397.0,
+      "position": 4,
+      "wins": 2
+    },
+    {
+      "season": 2024,
+      "constructor": "Aston Martin",
+      "constructor_id": 7,
+      "points": 105.0,
+      "position": 5,
+      "wins": 0
+    },
+    {
+      "season": 2024,
+      "constructor": "RB F1 Team",
+      "constructor_id": 12,
+      "points": 53.0,
+      "position": 6,
+      "wins": 0
+    },
+    {
+      "season": 2024,
+      "constructor": "Haas F1 Team",
+      "constructor_id": 17,
+      "points": 18.0,
+      "position": 7,
+      "wins": 0
+    },
+    {
+      "season": 2024,
+      "constructor": "Alpine F1 Team",
+      "constructor_id": 6,
+      "points": 16.0,
+      "position": 8,
+      "wins": 0
+    },
+    {
+      "season": 2024,
+      "constructor": "Williams",
+      "constructor_id": 13,
+      "points": 14.0,
+      "position": 9,
+      "wins": 0
+    },
+    {
+      "season": 2024,
+      "constructor": "Kick Sauber",
+      "constructor_id": 16,
+      "points": 5.0,
+      "position": 10,
+      "wins": 0
+    }
+  ],
+  "drivers": [
+    {
+      "driverId": 3,
+      "driverRef": "alonso",
+      "number": 14,
+      "code": "ALO",
+      "forename": "Fernando",
+      "surname": "Alonso",
+      "dob": "1981-07-29",
+      "nationality": "Spanish",
+      "url": "https://en.wikipedia.org/wiki/Fernando_Alonso"
+    },
+    {
+      "driverId": 42,
+      "driverRef": "bearman",
+      "number": 38,
+      "code": "BEA",
+      "forename": "Oliver",
+      "surname": "Bearman",
+      "dob": "2005-05-08",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Oliver_Bearman"
+    },
+    {
+      "driverId": 33,
+      "driverRef": "bianchi",
+      "number": 17,
+      "code": "BIA",
+      "forename": "Jules",
+      "surname": "Bianchi",
+      "dob": "1989-08-03",
+      "nationality": "French",
+      "url": "https://en.wikipedia.org/wiki/Jules_Bianchi"
+    },
+    {
+      "driverId": 10,
+      "driverRef": "bottas",
+      "number": 77,
+      "code": "BOT",
+      "forename": "Valtteri",
+      "surname": "Bottas",
+      "dob": "1989-08-28",
+      "nationality": "Finnish",
+      "url": "https://en.wikipedia.org/wiki/Valtteri_Bottas"
+    },
+    {
+      "driverId": 5,
+      "driverRef": "button",
+      "number": 22,
+      "code": "BUT",
+      "forename": "Jenson",
+      "surname": "Button",
+      "dob": "1980-01-19",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Jenson_Button"
+    },
+    {
+      "driverId": 32,
+      "driverRef": "max_chilton",
+      "number": 4,
+      "code": "CHI",
+      "forename": "Max",
+      "surname": "Chilton",
+      "dob": "1991-04-21",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Max_Chilton"
+    },
+    {
+      "driverId": 43,
+      "driverRef": "colapinto",
+      "number": 43,
+      "code": "COL",
+      "forename": "Franco",
+      "surname": "Colapinto",
+      "dob": "2003-05-27",
+      "nationality": "Argentine",
+      "url": "https://en.wikipedia.org/wiki/Franco_Colapinto"
+    },
+    {
+      "driverId": 24,
+      "driverRef": "gasly",
+      "number": 10,
+      "code": "GAS",
+      "forename": "Pierre",
+      "surname": "Gasly",
+      "dob": "1996-02-07",
+      "nationality": "French",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Gasly"
+    },
+    {
+      "driverId": 36,
+      "driverRef": "giovinazzi",
+      "number": 99,
+      "code": "GIO",
+      "forename": "Antonio",
+      "surname": "Giovinazzi",
+      "dob": "1993-12-14",
+      "nationality": "Italian",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Giovinazzi"
+    },
+    {
+      "driverId": 16,
+      "driverRef": "grosjean",
+      "number": 8,
+      "code": "GRO",
+      "forename": "Romain",
+      "surname": "Grosjean",
+      "dob": "1986-04-17",
+      "nationality": "French",
+      "url": "https://en.wikipedia.org/wiki/Romain_Grosjean"
+    },
+    {
+      "driverId": 31,
+      "driverRef": "gutierrez",
+      "number": 21,
+      "code": "GUT",
+      "forename": "Esteban",
+      "surname": "Guti\u00e9rrez",
+      "dob": "1991-08-05",
+      "nationality": "Mexican",
+      "url": "https://en.wikipedia.org/wiki/Esteban_Guti\u00e9rrez"
+    },
+    {
+      "driverId": 2,
+      "driverRef": "hamilton",
+      "number": 44,
+      "code": "HAM",
+      "forename": "Lewis",
+      "surname": "Hamilton",
+      "dob": "1985-01-07",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Lewis_Hamilton"
+    },
+    {
+      "driverId": 17,
+      "driverRef": "hulkenberg",
+      "number": 27,
+      "code": "HUL",
+      "forename": "Nico",
+      "surname": "H\u00fclkenberg",
+      "dob": "1987-08-19",
+      "nationality": "German",
+      "url": "https://en.wikipedia.org/wiki/Nico_H\u00fclkenberg"
+    },
+    {
+      "driverId": 28,
+      "driverRef": "kobayashi",
+      "number": 0,
+      "code": "KOB",
+      "forename": "Kamui",
+      "surname": "Kobayashi",
+      "dob": "1986-09-13",
+      "nationality": "Japanese",
+      "url": "https://en.wikipedia.org/wiki/Kamui_Kobayashi"
+    },
+    {
+      "driverId": 25,
+      "driverRef": "kvyat",
+      "number": 26,
+      "code": "KVY",
+      "forename": "Daniil",
+      "surname": "Kvyat",
+      "dob": "1994-04-26",
+      "nationality": "Russian",
+      "url": "https://en.wikipedia.org/wiki/Daniil_Kvyat"
+    },
+    {
+      "driverId": 37,
+      "driverRef": "latifi",
+      "number": 6,
+      "code": "LAT",
+      "forename": "Nicholas",
+      "surname": "Latifi",
+      "dob": "1995-06-29",
+      "nationality": "Canadian",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Latifi"
+    },
+    {
+      "driverId": 41,
+      "driverRef": "lawson",
+      "number": 30,
+      "code": "LAW",
+      "forename": "Liam",
+      "surname": "Lawson",
+      "dob": "2002-02-11",
+      "nationality": "New Zealander",
+      "url": "https://en.wikipedia.org/wiki/Liam_Lawson"
+    },
+    {
+      "driverId": 12,
+      "driverRef": "leclerc",
+      "number": 16,
+      "code": "LEC",
+      "forename": "Charles",
+      "surname": "Leclerc",
+      "dob": "1997-10-16",
+      "nationality": "Monegasque",
+      "url": "https://en.wikipedia.org/wiki/Charles_Leclerc"
+    },
+    {
+      "driverId": 18,
+      "driverRef": "magnussen",
+      "number": 20,
+      "code": "MAG",
+      "forename": "Kevin",
+      "surname": "Magnussen",
+      "dob": "1992-10-05",
+      "nationality": "Danish",
+      "url": "https://en.wikipedia.org/wiki/Kevin_Magnussen"
+    },
+    {
+      "driverId": 26,
+      "driverRef": "maldonado",
+      "number": 13,
+      "code": "MAL",
+      "forename": "Pastor",
+      "surname": "Maldonado",
+      "dob": "1985-03-09",
+      "nationality": "Venezuelan",
+      "url": "https://en.wikipedia.org/wiki/Pastor_Maldonado"
+    },
+    {
+      "driverId": 6,
+      "driverRef": "massa",
+      "number": 19,
+      "code": "MAS",
+      "forename": "Felipe",
+      "surname": "Massa",
+      "dob": "1981-04-25",
+      "nationality": "Brazilian",
+      "url": "https://en.wikipedia.org/wiki/Felipe_Massa"
+    },
+    {
+      "driverId": 13,
+      "driverRef": "norris",
+      "number": 4,
+      "code": "NOR",
+      "forename": "Lando",
+      "surname": "Norris",
+      "dob": "1999-11-13",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Lando_Norris"
+    },
+    {
+      "driverId": 23,
+      "driverRef": "ocon",
+      "number": 31,
+      "code": "OCO",
+      "forename": "Esteban",
+      "surname": "Ocon",
+      "dob": "1996-09-17",
+      "nationality": "French",
+      "url": "https://en.wikipedia.org/wiki/Esteban_Ocon"
+    },
+    {
+      "driverId": 21,
+      "driverRef": "piastri",
+      "number": 81,
+      "code": "PIA",
+      "forename": "Oscar",
+      "surname": "Piastri",
+      "dob": "2001-04-06",
+      "nationality": "Australian",
+      "url": "https://en.wikipedia.org/wiki/Oscar_Piastri"
+    },
+    {
+      "driverId": 34,
+      "driverRef": "pic",
+      "number": 20,
+      "code": "PIC",
+      "forename": "Charles",
+      "surname": "Pic",
+      "dob": "1990-02-15",
+      "nationality": "French",
+      "url": "https://en.wikipedia.org/wiki/Charles_Pic"
+    },
+    {
+      "driverId": 15,
+      "driverRef": "perez",
+      "number": 11,
+      "code": "PER",
+      "forename": "Sergio",
+      "surname": "P\u00e9rez",
+      "dob": "1990-01-26",
+      "nationality": "Mexican",
+      "url": "https://en.wikipedia.org/wiki/Sergio_P\u00e9rez"
+    },
+    {
+      "driverId": 9,
+      "driverRef": "ricciardo",
+      "number": 3,
+      "code": "RIC",
+      "forename": "Daniel",
+      "surname": "Ricciardo",
+      "dob": "1989-07-01",
+      "nationality": "Australian",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Ricciardo"
+    },
+    {
+      "driverId": 8,
+      "driverRef": "rosberg",
+      "number": 6,
+      "code": "ROS",
+      "forename": "Nico",
+      "surname": "Rosberg",
+      "dob": "1985-06-27",
+      "nationality": "German",
+      "url": "https://en.wikipedia.org/wiki/Nico_Rosberg"
+    },
+    {
+      "driverId": 22,
+      "driverRef": "russell",
+      "number": 63,
+      "code": "RUS",
+      "forename": "George",
+      "surname": "Russell",
+      "dob": "1998-02-15",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/George_Russell"
+    },
+    {
+      "driverId": 7,
+      "driverRef": "raikkonen",
+      "number": 7,
+      "code": "RAI",
+      "forename": "Kimi",
+      "surname": "R\u00e4ikk\u00f6nen",
+      "dob": "1979-10-17",
+      "nationality": "Finnish",
+      "url": "https://en.wikipedia.org/wiki/Kimi_R\u00e4ikk\u00f6nen"
+    },
+    {
+      "driverId": 14,
+      "driverRef": "sainz",
+      "number": 55,
+      "code": "SAI",
+      "forename": "Carlos",
+      "surname": "Sainz",
+      "dob": "1994-09-01",
+      "nationality": "Spanish",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Sainz"
+    },
+    {
+      "driverId": 40,
+      "driverRef": "sargeant",
+      "number": 2,
+      "code": "SAR",
+      "forename": "Logan",
+      "surname": "Sargeant",
+      "dob": "2000-12-31",
+      "nationality": "American",
+      "url": "https://en.wikipedia.org/wiki/Logan_Sargeant"
+    },
+    {
+      "driverId": 19,
+      "driverRef": "stroll",
+      "number": 18,
+      "code": "STR",
+      "forename": "Lance",
+      "surname": "Stroll",
+      "dob": "1998-10-29",
+      "nationality": "Canadian",
+      "url": "https://en.wikipedia.org/wiki/Lance_Stroll"
+    },
+    {
+      "driverId": 27,
+      "driverRef": "sutil",
+      "number": 99,
+      "code": "SUT",
+      "forename": "Adrian",
+      "surname": "Sutil",
+      "dob": "1983-01-11",
+      "nationality": "German",
+      "url": "https://en.wikipedia.org/wiki/Adrian_Sutil"
+    },
+    {
+      "driverId": 20,
+      "driverRef": "tsunoda",
+      "number": 22,
+      "code": "TSU",
+      "forename": "Yuki",
+      "surname": "Tsunoda",
+      "dob": "2000-05-11",
+      "nationality": "Japanese",
+      "url": "https://en.wikipedia.org/wiki/Yuki_Tsunoda"
+    },
+    {
+      "driverId": 35,
+      "driverRef": "vandoorne",
+      "number": 2,
+      "code": "VAN",
+      "forename": "Stoffel",
+      "surname": "Vandoorne",
+      "dob": "1992-03-26",
+      "nationality": "Belgian",
+      "url": "https://en.wikipedia.org/wiki/Stoffel_Vandoorne"
+    },
+    {
+      "driverId": 30,
+      "driverRef": "vergne",
+      "number": 25,
+      "code": "JEV",
+      "forename": "Jean-\u00c9ric",
+      "surname": "Vergne",
+      "dob": "1990-04-25",
+      "nationality": "French",
+      "url": "https://en.wikipedia.org/wiki/Jean-\u00c9ric_Vergne"
+    },
+    {
+      "driverId": 11,
+      "driverRef": "verstappen",
+      "number": 1,
+      "code": "VER",
+      "forename": "Max",
+      "surname": "Verstappen",
+      "dob": "1997-09-30",
+      "nationality": "Dutch",
+      "url": "https://en.wikipedia.org/wiki/Max_Verstappen"
+    },
+    {
+      "driverId": 1,
+      "driverRef": "vettel",
+      "number": 5,
+      "code": "VET",
+      "forename": "Sebastian",
+      "surname": "Vettel",
+      "dob": "1987-07-03",
+      "nationality": "German",
+      "url": "https://en.wikipedia.org/wiki/Sebastian_Vettel"
+    },
+    {
+      "driverId": 4,
+      "driverRef": "webber",
+      "number": 2,
+      "code": "WEB",
+      "forename": "Mark",
+      "surname": "Webber",
+      "dob": "1976-08-27",
+      "nationality": "Australian",
+      "url": "https://en.wikipedia.org/wiki/Mark_Webber"
+    },
+    {
+      "driverId": 38,
+      "driverRef": "zhou",
+      "number": 24,
+      "code": "ZHO",
+      "forename": "Guanyu",
+      "surname": "Zhou",
+      "dob": "1999-05-30",
+      "nationality": "Chinese",
+      "url": "https://en.wikipedia.org/wiki/Guanyu_Zhou"
+    },
+    {
+      "driverId": 39,
+      "driverRef": "de_vries",
+      "number": 21,
+      "code": "DEV",
+      "forename": "Nyck",
+      "surname": "de Vries",
+      "dob": "1995-02-06",
+      "nationality": "Dutch",
+      "url": "https://en.wikipedia.org/wiki/Nyck_de_Vries"
+    },
+    {
+      "driverId": 29,
+      "driverRef": "di_resta",
+      "number": 40,
+      "code": "DIR",
+      "forename": "Paul",
+      "surname": "di Resta",
+      "dob": "1986-04-16",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Paul_di_Resta"
+    }
+  ],
+  "driver_leaderboard": [
+    {
+      "driver_id": "2",
+      "driver_name": "Lewis Hamilton",
+      "code": "HAM",
+      "nationality": "British",
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "points": 3726.0,
+      "wins": 78,
+      "podiums": 149,
+      "poles": 98,
+      "race_starts": 245,
+      "avg_finish_position": 3.03
+    },
+    {
+      "driver_id": "11",
+      "driver_name": "Max Verstappen",
+      "code": "VER",
+      "nationality": "Dutch",
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "points": 2862.0,
+      "wins": 48,
+      "podiums": 106,
+      "poles": 66,
+      "race_starts": 189,
+      "avg_finish_position": 3.12
+    },
+    {
+      "driver_id": "1",
+      "driver_name": "Sebastian Vettel",
+      "code": "VET",
+      "nationality": "German",
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "points": 1642.0,
+      "wins": 35,
+      "podiums": 69,
+      "poles": 53,
+      "race_starts": 91,
+      "avg_finish_position": 2.49
+    },
+    {
+      "driver_id": "8",
+      "driver_name": "Nico Rosberg",
+      "code": "ROS",
+      "nationality": "German",
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "points": 1570.0,
+      "wins": 22,
+      "podiums": 58,
+      "poles": 21,
+      "race_starts": 131,
+      "avg_finish_position": 4.31
+    },
+    {
+      "driver_id": "10",
+      "driver_name": "Valtteri Bottas",
+      "code": "BOT",
+      "nationality": "Finnish",
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "points": 1535.0,
+      "wins": 24,
+      "podiums": 66,
+      "poles": 18,
+      "race_starts": 100,
+      "avg_finish_position": 2.62
+    },
+    {
+      "driver_id": "15",
+      "driver_name": "Sergio P\u00e9rez",
+      "code": "PER",
+      "nationality": "Mexican",
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "points": 1162.0,
+      "wins": 12,
+      "podiums": 53,
+      "poles": 7,
+      "race_starts": 89,
+      "avg_finish_position": 3.19
+    },
+    {
+      "driver_id": "1",
+      "driver_name": "Sebastian Vettel",
+      "code": "VET",
+      "nationality": "German",
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "points": 1126.0,
+      "wins": 7,
+      "podiums": 33,
+      "poles": 3,
+      "race_starts": 119,
+      "avg_finish_position": 4.85
+    },
+    {
+      "driver_id": "12",
+      "driver_name": "Charles Leclerc",
+      "code": "LEC",
+      "nationality": "Monegasque",
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "points": 1085.0,
+      "wins": 5,
+      "podiums": 31,
+      "poles": 1,
+      "race_starts": 127,
+      "avg_finish_position": 5.64
+    },
+    {
+      "driver_id": "7",
+      "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+      "code": "RAI",
+      "nationality": "Finnish",
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "points": 1033.0,
+      "wins": 7,
+      "podiums": 38,
+      "poles": 2,
+      "race_starts": 100,
+      "avg_finish_position": 4.38
+    },
+    {
+      "driver_id": "4",
+      "driver_name": "Mark Webber",
+      "code": "WEB",
+      "nationality": "Australian",
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "points": 1015.0,
+      "wins": 15,
+      "podiums": 42,
+      "poles": 15,
+      "race_starts": 72,
+      "avg_finish_position": 2.69
+    },
+    {
+      "driver_id": "9",
+      "driver_name": "Daniel Ricciardo",
+      "code": "RIC",
+      "nationality": "Australian",
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "points": 978.0,
+      "wins": 6,
+      "podiums": 30,
+      "poles": 0,
+      "race_starts": 100,
+      "avg_finish_position": 4.75
+    },
+    {
+      "driver_id": "13",
+      "driver_name": "Lando Norris",
+      "code": "NOR",
+      "nationality": "British",
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "points": 872.0,
+      "wins": 2,
+      "podiums": 20,
+      "poles": 2,
+      "race_starts": 127,
+      "avg_finish_position": 6.62
+    },
+    {
+      "driver_id": "5",
+      "driver_name": "Jenson Button",
+      "code": "BUT",
+      "nationality": "British",
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "points": 847.0,
+      "wins": 6,
+      "podiums": 26,
+      "poles": 0,
+      "race_starts": 131,
+      "avg_finish_position": 7.58
+    },
+    {
+      "driver_id": "3",
+      "driver_name": "Fernando Alonso",
+      "code": "ALO",
+      "nationality": "Spanish",
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "points": 836.0,
+      "wins": 5,
+      "podiums": 19,
+      "poles": 1,
+      "race_starts": 91,
+      "avg_finish_position": 5.26
+    },
+    {
+      "driver_id": "14",
+      "driver_name": "Carlos Sainz",
+      "code": "SAI",
+      "nationality": "Spanish",
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "points": 791.0,
+      "wins": 4,
+      "podiums": 18,
+      "poles": 3,
+      "race_starts": 89,
+      "avg_finish_position": 5.26
+    },
+    {
+      "driver_id": "6",
+      "driver_name": "Felipe Massa",
+      "code": "MAS",
+      "nationality": "Brazilian",
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "points": 718.0,
+      "wins": 1,
+      "podiums": 21,
+      "poles": 1,
+      "race_starts": 72,
+      "avg_finish_position": 4.54
+    },
+    {
+      "driver_id": "22",
+      "driver_name": "George Russell",
+      "code": "RUS",
+      "nationality": "British",
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "points": 702.0,
+      "wins": 3,
+      "podiums": 21,
+      "poles": 0,
+      "race_starts": 68,
+      "avg_finish_position": 4.41
+    },
+    {
+      "driver_id": "2",
+      "driver_name": "Lewis Hamilton",
+      "code": "HAM",
+      "nationality": "British",
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "points": 637.0,
+      "wins": 7,
+      "podiums": 24,
+      "poles": 2,
+      "race_starts": 54,
+      "avg_finish_position": 3.49
+    },
+    {
+      "driver_id": "21",
+      "driver_name": "Oscar Piastri",
+      "code": "PIA",
+      "nationality": "Australian",
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "points": 540.0,
+      "wins": 9,
+      "podiums": 18,
+      "poles": 6,
+      "race_starts": 46,
+      "avg_finish_position": 4.84
+    },
+    {
+      "driver_id": "15",
+      "driver_name": "Sergio P\u00e9rez",
+      "code": "PER",
+      "nationality": "Mexican",
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "points": 379.0,
+      "wins": 0,
+      "podiums": 2,
+      "poles": 0,
+      "race_starts": 100,
+      "avg_finish_position": 8.25
+    },
+    {
+      "driver_id": "17",
+      "driver_name": "Nico H\u00fclkenberg",
+      "code": "HUL",
+      "nationality": "German",
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "points": 348.0,
+      "wins": 0,
+      "podiums": 3,
+      "poles": 0,
+      "race_starts": 95,
+      "avg_finish_position": 8.85
+    },
+    {
+      "driver_id": "16",
+      "driver_name": "Romain Grosjean",
+      "code": "GRO",
+      "nationality": "French",
+      "constructor_name": "Lotus F1",
+      "constructor_ref": "lotus_f1",
+      "points": 319.0,
+      "wins": 2,
+      "podiums": 9,
+      "poles": 0,
+      "race_starts": 74,
+      "avg_finish_position": 8.93
+    },
+    {
+      "driver_id": "6",
+      "driver_name": "Felipe Massa",
+      "code": "MAS",
+      "nationality": "Brazilian",
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "points": 311.0,
+      "wins": 0,
+      "podiums": 2,
+      "poles": 0,
+      "race_starts": 79,
+      "avg_finish_position": 8.54
+    },
+    {
+      "driver_id": "7",
+      "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+      "code": "RAI",
+      "nationality": "Finnish",
+      "constructor_name": "Lotus F1",
+      "constructor_ref": "lotus_f1",
+      "points": 266.0,
+      "wins": 0,
+      "podiums": 2,
+      "poles": 0,
+      "race_starts": 72,
+      "avg_finish_position": 8.94
+    },
+    {
+      "driver_id": "10",
+      "driver_name": "Valtteri Bottas",
+      "code": "BOT",
+      "nationality": "Finnish",
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "points": 248.0,
+      "wins": 0,
+      "podiums": 4,
+      "poles": 0,
+      "race_starts": 77,
+      "avg_finish_position": 9.41
+    },
+    {
+      "driver_id": "19",
+      "driver_name": "Lance Stroll",
+      "code": "STR",
+      "nationality": "Canadian",
+      "constructor_name": "Aston Martin",
+      "constructor_ref": "aston_martin",
+      "points": 238.0,
+      "wins": 0,
+      "podiums": 2,
+      "poles": 0,
+      "race_starts": 89,
+      "avg_finish_position": 9.59
+    },
+    {
+      "driver_id": "3",
+      "driver_name": "Fernando Alonso",
+      "code": "ALO",
+      "nationality": "Spanish",
+      "constructor_name": "Alpine F1 Team",
+      "constructor_ref": "alpine",
+      "points": 211.0,
+      "wins": 0,
+      "podiums": 2,
+      "poles": 0,
+      "race_starts": 43,
+      "avg_finish_position": 7.43
+    },
+    {
+      "driver_id": "23",
+      "driver_name": "Esteban Ocon",
+      "code": "OCO",
+      "nationality": "French",
+      "constructor_name": "Alpine F1 Team",
+      "constructor_ref": "alpine",
+      "points": 202.0,
+      "wins": 0,
+      "podiums": 2,
+      "poles": 0,
+      "race_starts": 89,
+      "avg_finish_position": 10.55
+    },
+    {
+      "driver_id": "24",
+      "driver_name": "Pierre Gasly",
+      "code": "GAS",
+      "nationality": "French",
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "points": 197.0,
+      "wins": 1,
+      "podiums": 7,
+      "poles": 0,
+      "race_starts": 21,
+      "avg_finish_position": 5.0
+    },
+    {
+      "driver_id": "17",
+      "driver_name": "Nico H\u00fclkenberg",
+      "code": "HUL",
+      "nationality": "German",
+      "constructor_name": "Renault",
+      "constructor_ref": "renault",
+      "points": 188.0,
+      "wins": 0,
+      "podiums": 0,
+      "poles": 0,
+      "race_starts": 62,
+      "avg_finish_position": 9.26
+    }
+  ],
+  "constructors": [
+    {
+      "constructorId": 15,
+      "constructorRef": "alfa_romeo",
+      "name": "Alfa Romeo",
+      "nationality": "Swiss",
+      "url": "https://en.wikipedia.org/wiki/Alfa_Romeo"
+    },
+    {
+      "constructorId": 11,
+      "constructorRef": "alphatauri",
+      "name": "AlphaTauri",
+      "nationality": "Italian",
+      "url": "https://en.wikipedia.org/wiki/AlphaTauri"
+    },
+    {
+      "constructorId": 6,
+      "constructorRef": "alpine",
+      "name": "Alpine F1 Team",
+      "nationality": "French",
+      "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team"
+    },
+    {
+      "constructorId": 7,
+      "constructorRef": "aston_martin",
+      "name": "Aston Martin",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Aston_Martin"
+    },
+    {
+      "constructorId": 19,
+      "constructorRef": "caterham",
+      "name": "Caterham",
+      "nationality": "Malaysian",
+      "url": "https://en.wikipedia.org/wiki/Caterham"
+    },
+    {
+      "constructorId": 3,
+      "constructorRef": "ferrari",
+      "name": "Ferrari",
+      "nationality": "Italian",
+      "url": "https://en.wikipedia.org/wiki/Ferrari"
+    },
+    {
+      "constructorId": 8,
+      "constructorRef": "force_india",
+      "name": "Force India",
+      "nationality": "Indian",
+      "url": "https://en.wikipedia.org/wiki/Force_India"
+    },
+    {
+      "constructorId": 22,
+      "constructorRef": "hrt",
+      "name": "HRT",
+      "nationality": "Spanish",
+      "url": "https://en.wikipedia.org/wiki/HRT"
+    },
+    {
+      "constructorId": 17,
+      "constructorRef": "haas",
+      "name": "Haas F1 Team",
+      "nationality": "American",
+      "url": "https://en.wikipedia.org/wiki/Haas_F1_Team"
+    },
+    {
+      "constructorId": 16,
+      "constructorRef": "kick_sauber",
+      "name": "Kick Sauber",
+      "nationality": "Swiss",
+      "url": "https://en.wikipedia.org/wiki/Kick_Sauber"
+    },
+    {
+      "constructorId": 18,
+      "constructorRef": "lotus_f1",
+      "name": "Lotus F1",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Lotus_F1"
+    },
+    {
+      "constructorId": 21,
+      "constructorRef": "manor",
+      "name": "Manor Marussia",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Manor_Marussia"
+    },
+    {
+      "constructorId": 20,
+      "constructorRef": "marussia",
+      "name": "Marussia",
+      "nationality": "Russian",
+      "url": "https://en.wikipedia.org/wiki/Marussia"
+    },
+    {
+      "constructorId": 4,
+      "constructorRef": "mclaren",
+      "name": "McLaren",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/McLaren"
+    },
+    {
+      "constructorId": 2,
+      "constructorRef": "mercedes",
+      "name": "Mercedes",
+      "nationality": "German",
+      "url": "https://en.wikipedia.org/wiki/Mercedes"
+    },
+    {
+      "constructorId": 12,
+      "constructorRef": "rb",
+      "name": "RB F1 Team",
+      "nationality": "Italian",
+      "url": "https://en.wikipedia.org/wiki/RB_F1_Team"
+    },
+    {
+      "constructorId": 9,
+      "constructorRef": "racing_point",
+      "name": "Racing Point",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Racing_Point"
+    },
+    {
+      "constructorId": 1,
+      "constructorRef": "red_bull",
+      "name": "Red Bull",
+      "nationality": "Austrian",
+      "url": "https://en.wikipedia.org/wiki/Red_Bull"
+    },
+    {
+      "constructorId": 5,
+      "constructorRef": "renault",
+      "name": "Renault",
+      "nationality": "French",
+      "url": "https://en.wikipedia.org/wiki/Renault"
+    },
+    {
+      "constructorId": 14,
+      "constructorRef": "sauber",
+      "name": "Sauber",
+      "nationality": "Swiss",
+      "url": "https://en.wikipedia.org/wiki/Sauber"
+    },
+    {
+      "constructorId": 10,
+      "constructorRef": "toro_rosso",
+      "name": "Scuderia Toro Rosso",
+      "nationality": "Italian",
+      "url": "https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso"
+    },
+    {
+      "constructorId": 13,
+      "constructorRef": "williams",
+      "name": "Williams",
+      "nationality": "British",
+      "url": "https://en.wikipedia.org/wiki/Williams"
+    }
+  ],
+  "constructor_heatmap": [
+    {
+      "season": 2010,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 1,
+      "points": 626.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 2,
+      "points": 424.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 3,
+      "points": 333.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 4,
+      "points": 134.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 5,
+      "points": 76.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "position": 6,
+      "points": 71.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "Renault",
+      "constructor_ref": "renault",
+      "position": 7,
+      "points": 69.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "Scuderia Toro Rosso",
+      "constructor_ref": "toro_rosso",
+      "position": 8,
+      "points": 40.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "Sauber",
+      "constructor_ref": "sauber",
+      "position": 9,
+      "points": 25.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "Caterham",
+      "constructor_ref": "caterham",
+      "position": 10,
+      "points": 9.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "HRT",
+      "constructor_ref": "hrt",
+      "position": 11,
+      "points": 6.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "Lotus F1",
+      "constructor_ref": "lotus_f1",
+      "position": 12,
+      "points": 5.0
+    },
+    {
+      "season": 2010,
+      "constructor_name": "Marussia",
+      "constructor_ref": "marussia",
+      "position": 13,
+      "points": 0.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 1,
+      "points": 618.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 2,
+      "points": 482.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 3,
+      "points": 326.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 4,
+      "points": 105.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "position": 5,
+      "points": 97.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Lotus F1",
+      "constructor_ref": "lotus_f1",
+      "position": 6,
+      "points": 65.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Renault",
+      "constructor_ref": "renault",
+      "position": 7,
+      "points": 59.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Scuderia Toro Rosso",
+      "constructor_ref": "toro_rosso",
+      "position": 8,
+      "points": 32.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 9,
+      "points": 21.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Sauber",
+      "constructor_ref": "sauber",
+      "position": 10,
+      "points": 11.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Marussia",
+      "constructor_ref": "marussia",
+      "position": 11,
+      "points": 2.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "HRT",
+      "constructor_ref": "hrt",
+      "position": 12,
+      "points": 0.0
+    },
+    {
+      "season": 2011,
+      "constructor_name": "Caterham",
+      "constructor_ref": "caterham",
+      "position": 13,
+      "points": 0.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 1,
+      "points": 533.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 2,
+      "points": 503.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 3,
+      "points": 383.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "Lotus F1",
+      "constructor_ref": "lotus_f1",
+      "position": 4,
+      "points": 225.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 5,
+      "points": 74.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "position": 6,
+      "points": 58.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "Sauber",
+      "constructor_ref": "sauber",
+      "position": 7,
+      "points": 31.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 8,
+      "points": 9.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "Scuderia Toro Rosso",
+      "constructor_ref": "toro_rosso",
+      "position": 9,
+      "points": 2.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "Caterham",
+      "constructor_ref": "caterham",
+      "position": 10,
+      "points": 0.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "Marussia",
+      "constructor_ref": "marussia",
+      "position": 11,
+      "points": 0.0
+    },
+    {
+      "season": 2012,
+      "constructor_name": "HRT",
+      "constructor_ref": "hrt",
+      "position": 12,
+      "points": 0.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 1,
+      "points": 677.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 2,
+      "points": 340.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 3,
+      "points": 286.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "Lotus F1",
+      "constructor_ref": "lotus_f1",
+      "position": 4,
+      "points": 264.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 5,
+      "points": 138.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "position": 6,
+      "points": 66.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "Scuderia Toro Rosso",
+      "constructor_ref": "toro_rosso",
+      "position": 7,
+      "points": 29.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "Sauber",
+      "constructor_ref": "sauber",
+      "position": 8,
+      "points": 12.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 9,
+      "points": 6.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "Marussia",
+      "constructor_ref": "marussia",
+      "position": 10,
+      "points": 0.0
+    },
+    {
+      "season": 2013,
+      "constructor_name": "Caterham",
+      "constructor_ref": "caterham",
+      "position": 11,
+      "points": 0.0
+    },
+    {
+      "season": 2014,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 1,
+      "points": 741.0
+    },
+    {
+      "season": 2014,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 2,
+      "points": 413.0
+    },
+    {
+      "season": 2014,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 3,
+      "points": 224.0
+    },
+    {
+      "season": 2014,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 4,
+      "points": 159.0
+    },
+    {
+      "season": 2014,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 5,
+      "points": 153.0
+    },
+    {
+      "season": 2014,
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "position": 6,
+      "points": 121.0
+    },
+    {
+      "season": 2014,
+      "constructor_name": "Scuderia Toro Rosso",
+      "constructor_ref": "toro_rosso",
+      "position": 7,
+      "points": 56.0
+    },
+    {
+      "season": 2014,
+      "constructor_name": "Sauber",
+      "constructor_ref": "sauber",
+      "position": 8,
+      "points": 32.0
+    },
+    {
+      "season": 2014,
+      "constructor_name": "Lotus F1",
+      "constructor_ref": "lotus_f1",
+      "position": 9,
+      "points": 20.0
+    },
+    {
+      "season": 2014,
+      "constructor_name": "Marussia",
+      "constructor_ref": "marussia",
+      "position": 10,
+      "points": 0.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 1,
+      "points": 761.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 2,
+      "points": 398.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 3,
+      "points": 258.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "position": 4,
+      "points": 197.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 5,
+      "points": 182.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "Scuderia Toro Rosso",
+      "constructor_ref": "toro_rosso",
+      "position": 6,
+      "points": 72.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "Lotus F1",
+      "constructor_ref": "lotus_f1",
+      "position": 7,
+      "points": 25.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "Sauber",
+      "constructor_ref": "sauber",
+      "position": 8,
+      "points": 15.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 9,
+      "points": 9.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "Renault",
+      "constructor_ref": "renault",
+      "position": 10,
+      "points": 2.0
+    },
+    {
+      "season": 2015,
+      "constructor_name": "Manor Marussia",
+      "constructor_ref": "manor",
+      "position": 11,
+      "points": 0.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 1,
+      "points": 754.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 2,
+      "points": 450.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 3,
+      "points": 427.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "position": 4,
+      "points": 212.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 5,
+      "points": 115.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "Scuderia Toro Rosso",
+      "constructor_ref": "toro_rosso",
+      "position": 6,
+      "points": 54.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 7,
+      "points": 51.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "Haas F1 Team",
+      "constructor_ref": "haas",
+      "position": 8,
+      "points": 49.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "Renault",
+      "constructor_ref": "renault",
+      "position": 9,
+      "points": 9.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "Sauber",
+      "constructor_ref": "sauber",
+      "position": 10,
+      "points": 0.0
+    },
+    {
+      "season": 2016,
+      "constructor_name": "Manor Marussia",
+      "constructor_ref": "manor",
+      "position": 11,
+      "points": 0.0
+    },
+    {
+      "season": 2017,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 1,
+      "points": 725.0
+    },
+    {
+      "season": 2017,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 2,
+      "points": 488.0
+    },
+    {
+      "season": 2017,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 3,
+      "points": 377.0
+    },
+    {
+      "season": 2017,
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "position": 4,
+      "points": 166.0
+    },
+    {
+      "season": 2017,
+      "constructor_name": "Scuderia Toro Rosso",
+      "constructor_ref": "toro_rosso",
+      "position": 5,
+      "points": 80.0
+    },
+    {
+      "season": 2017,
+      "constructor_name": "Renault",
+      "constructor_ref": "renault",
+      "position": 6,
+      "points": 63.0
+    },
+    {
+      "season": 2017,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 7,
+      "points": 58.0
+    },
+    {
+      "season": 2017,
+      "constructor_name": "Haas F1 Team",
+      "constructor_ref": "haas",
+      "position": 8,
+      "points": 34.0
+    },
+    {
+      "season": 2017,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 9,
+      "points": 19.0
+    },
+    {
+      "season": 2017,
+      "constructor_name": "Sauber",
+      "constructor_ref": "sauber",
+      "position": 10,
+      "points": 10.0
+    },
+    {
+      "season": 2018,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 1,
+      "points": 709.0
+    },
+    {
+      "season": 2018,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 2,
+      "points": 532.0
+    },
+    {
+      "season": 2018,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 3,
+      "points": 436.0
+    },
+    {
+      "season": 2018,
+      "constructor_name": "Renault",
+      "constructor_ref": "renault",
+      "position": 4,
+      "points": 133.0
+    },
+    {
+      "season": 2018,
+      "constructor_name": "Force India",
+      "constructor_ref": "force_india",
+      "position": 5,
+      "points": 126.0
+    },
+    {
+      "season": 2018,
+      "constructor_name": "Haas F1 Team",
+      "constructor_ref": "haas",
+      "position": 6,
+      "points": 93.0
+    },
+    {
+      "season": 2018,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 7,
+      "points": 46.0
+    },
+    {
+      "season": 2018,
+      "constructor_name": "Scuderia Toro Rosso",
+      "constructor_ref": "toro_rosso",
+      "position": 8,
+      "points": 26.0
+    },
+    {
+      "season": 2018,
+      "constructor_name": "Sauber",
+      "constructor_ref": "sauber",
+      "position": 9,
+      "points": 18.0
+    },
+    {
+      "season": 2018,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 10,
+      "points": 2.0
+    },
+    {
+      "season": 2019,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 1,
+      "points": 769.0
+    },
+    {
+      "season": 2019,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 2,
+      "points": 483.0
+    },
+    {
+      "season": 2019,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 3,
+      "points": 408.0
+    },
+    {
+      "season": 2019,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 4,
+      "points": 235.0
+    },
+    {
+      "season": 2019,
+      "constructor_name": "Racing Point",
+      "constructor_ref": "racing_point",
+      "position": 5,
+      "points": 96.0
+    },
+    {
+      "season": 2019,
+      "constructor_name": "Renault",
+      "constructor_ref": "renault",
+      "position": 6,
+      "points": 84.0
+    },
+    {
+      "season": 2019,
+      "constructor_name": "Alfa Romeo",
+      "constructor_ref": "alfa_romeo",
+      "position": 7,
+      "points": 33.0
+    },
+    {
+      "season": 2019,
+      "constructor_name": "Scuderia Toro Rosso",
+      "constructor_ref": "toro_rosso",
+      "position": 8,
+      "points": 17.0
+    },
+    {
+      "season": 2019,
+      "constructor_name": "Haas F1 Team",
+      "constructor_ref": "haas",
+      "position": 9,
+      "points": 16.0
+    },
+    {
+      "season": 2019,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 10,
+      "points": 0.0
+    },
+    {
+      "season": 2020,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 1,
+      "points": 630.0
+    },
+    {
+      "season": 2020,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 2,
+      "points": 258.0
+    },
+    {
+      "season": 2020,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 3,
+      "points": 216.0
+    },
+    {
+      "season": 2020,
+      "constructor_name": "Racing Point",
+      "constructor_ref": "racing_point",
+      "position": 4,
+      "points": 213.0
+    },
+    {
+      "season": 2020,
+      "constructor_name": "Renault",
+      "constructor_ref": "renault",
+      "position": 5,
+      "points": 166.0
+    },
+    {
+      "season": 2020,
+      "constructor_name": "AlphaTauri",
+      "constructor_ref": "alphatauri",
+      "position": 6,
+      "points": 110.0
+    },
+    {
+      "season": 2020,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 7,
+      "points": 78.0
+    },
+    {
+      "season": 2020,
+      "constructor_name": "Alfa Romeo",
+      "constructor_ref": "alfa_romeo",
+      "position": 8,
+      "points": 29.0
+    },
+    {
+      "season": 2020,
+      "constructor_name": "Haas F1 Team",
+      "constructor_ref": "haas",
+      "position": 9,
+      "points": 23.0
+    },
+    {
+      "season": 2020,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 10,
+      "points": 8.0
+    },
+    {
+      "season": 2021,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 1,
+      "points": 680.0
+    },
+    {
+      "season": 2021,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 2,
+      "points": 602.0
+    },
+    {
+      "season": 2021,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 3,
+      "points": 250.0
+    },
+    {
+      "season": 2021,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 4,
+      "points": 238.0
+    },
+    {
+      "season": 2021,
+      "constructor_name": "Alpine F1 Team",
+      "constructor_ref": "alpine",
+      "position": 5,
+      "points": 184.0
+    },
+    {
+      "season": 2021,
+      "constructor_name": "AlphaTauri",
+      "constructor_ref": "alphatauri",
+      "position": 6,
+      "points": 81.0
+    },
+    {
+      "season": 2021,
+      "constructor_name": "Aston Martin",
+      "constructor_ref": "aston_martin",
+      "position": 7,
+      "points": 77.0
+    },
+    {
+      "season": 2021,
+      "constructor_name": "Alfa Romeo",
+      "constructor_ref": "alfa_romeo",
+      "position": 8,
+      "points": 17.0
+    },
+    {
+      "season": 2021,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 9,
+      "points": 8.0
+    },
+    {
+      "season": 2021,
+      "constructor_name": "Haas F1 Team",
+      "constructor_ref": "haas",
+      "position": 10,
+      "points": 0.0
+    },
+    {
+      "season": 2022,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 1,
+      "points": 732.0
+    },
+    {
+      "season": 2022,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 2,
+      "points": 551.0
+    },
+    {
+      "season": 2022,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 3,
+      "points": 446.0
+    },
+    {
+      "season": 2022,
+      "constructor_name": "Alpine F1 Team",
+      "constructor_ref": "alpine",
+      "position": 4,
+      "points": 176.0
+    },
+    {
+      "season": 2022,
+      "constructor_name": "Alfa Romeo",
+      "constructor_ref": "alfa_romeo",
+      "position": 5,
+      "points": 130.0
+    },
+    {
+      "season": 2022,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 6,
+      "points": 118.0
+    },
+    {
+      "season": 2022,
+      "constructor_name": "Haas F1 Team",
+      "constructor_ref": "haas",
+      "position": 7,
+      "points": 26.0
+    },
+    {
+      "season": 2022,
+      "constructor_name": "Aston Martin",
+      "constructor_ref": "aston_martin",
+      "position": 8,
+      "points": 25.0
+    },
+    {
+      "season": 2022,
+      "constructor_name": "AlphaTauri",
+      "constructor_ref": "alphatauri",
+      "position": 9,
+      "points": 22.0
+    },
+    {
+      "season": 2022,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 10,
+      "points": 14.0
+    },
+    {
+      "season": 2023,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 1,
+      "points": 892.0
+    },
+    {
+      "season": 2023,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 2,
+      "points": 400.0
+    },
+    {
+      "season": 2023,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 3,
+      "points": 282.0
+    },
+    {
+      "season": 2023,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 4,
+      "points": 275.0
+    },
+    {
+      "season": 2023,
+      "constructor_name": "Aston Martin",
+      "constructor_ref": "aston_martin",
+      "position": 5,
+      "points": 241.0
+    },
+    {
+      "season": 2023,
+      "constructor_name": "Alpine F1 Team",
+      "constructor_ref": "alpine",
+      "position": 6,
+      "points": 93.0
+    },
+    {
+      "season": 2023,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 7,
+      "points": 36.0
+    },
+    {
+      "season": 2023,
+      "constructor_name": "Alfa Romeo",
+      "constructor_ref": "alfa_romeo",
+      "position": 8,
+      "points": 12.0
+    },
+    {
+      "season": 2023,
+      "constructor_name": "AlphaTauri",
+      "constructor_ref": "alphatauri",
+      "position": 9,
+      "points": 8.0
+    },
+    {
+      "season": 2023,
+      "constructor_name": "Haas F1 Team",
+      "constructor_ref": "haas",
+      "position": 10,
+      "points": 2.0
+    },
+    {
+      "season": 2024,
+      "constructor_name": "McLaren",
+      "constructor_ref": "mclaren",
+      "position": 1,
+      "points": 716.0
+    },
+    {
+      "season": 2024,
+      "constructor_name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "position": 2,
+      "points": 654.0
+    },
+    {
+      "season": 2024,
+      "constructor_name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "position": 3,
+      "points": 468.0
+    },
+    {
+      "season": 2024,
+      "constructor_name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "position": 4,
+      "points": 397.0
+    },
+    {
+      "season": 2024,
+      "constructor_name": "Aston Martin",
+      "constructor_ref": "aston_martin",
+      "position": 5,
+      "points": 105.0
+    },
+    {
+      "season": 2024,
+      "constructor_name": "RB F1 Team",
+      "constructor_ref": "rb",
+      "position": 6,
+      "points": 53.0
+    },
+    {
+      "season": 2024,
+      "constructor_name": "Haas F1 Team",
+      "constructor_ref": "haas",
+      "position": 7,
+      "points": 18.0
+    },
+    {
+      "season": 2024,
+      "constructor_name": "Alpine F1 Team",
+      "constructor_ref": "alpine",
+      "position": 8,
+      "points": 16.0
+    },
+    {
+      "season": 2024,
+      "constructor_name": "Williams",
+      "constructor_ref": "williams",
+      "position": 9,
+      "points": 14.0
+    },
+    {
+      "season": 2024,
+      "constructor_name": "Kick Sauber",
+      "constructor_ref": "kick_sauber",
+      "position": 10,
+      "points": 5.0
+    }
+  ],
+  "circuits_leaderboard": [
+    {
+      "circuit_id": "4",
+      "circuit_ref": "bahrain",
+      "name": "Bahrain International Circuit",
+      "location": "Sakhir",
+      "country": "Bahrain",
+      "lat": 26.0325,
+      "lng": 50.5106,
+      "races_hosted": 15,
+      "total_entries": 298,
+      "dnfs": 45,
+      "dnf_rate": 15.1
+    },
+    {
+      "circuit_id": "5",
+      "circuit_ref": "catalunya",
+      "name": "Circuit de Barcelona-Catalunya",
+      "location": "Montmel\u00f3",
+      "country": "Spain",
+      "lat": 41.57,
+      "lng": 2.26111,
+      "races_hosted": 15,
+      "total_entries": 298,
+      "dnfs": 41,
+      "dnf_rate": 13.8
+    },
+    {
+      "circuit_id": "8",
+      "circuit_ref": "silverstone",
+      "name": "Silverstone Circuit",
+      "location": "Silverstone",
+      "country": "UK",
+      "lat": 52.0786,
+      "lng": -1.01694,
+      "races_hosted": 15,
+      "total_entries": 298,
+      "dnfs": 41,
+      "dnf_rate": 13.8
+    },
+    {
+      "circuit_id": "10",
+      "circuit_ref": "hungaroring",
+      "name": "Hungaroring",
+      "location": "Budapest",
+      "country": "Hungary",
+      "lat": 47.5789,
+      "lng": 19.2486,
+      "races_hosted": 15,
+      "total_entries": 298,
+      "dnfs": 38,
+      "dnf_rate": 12.8
+    },
+    {
+      "circuit_id": "11",
+      "circuit_ref": "spa",
+      "name": "Circuit de Spa-Francorchamps",
+      "location": "Spa",
+      "country": "Belgium",
+      "lat": 50.4372,
+      "lng": 5.97139,
+      "races_hosted": 15,
+      "total_entries": 298,
+      "dnfs": 46,
+      "dnf_rate": 15.4
+    },
+    {
+      "circuit_id": "12",
+      "circuit_ref": "monza",
+      "name": "Autodromo Nazionale di Monza",
+      "location": "Monza",
+      "country": "Italy",
+      "lat": 45.6156,
+      "lng": 9.28111,
+      "races_hosted": 15,
+      "total_entries": 298,
+      "dnfs": 38,
+      "dnf_rate": 12.8
+    },
+    {
+      "circuit_id": "16",
+      "circuit_ref": "yas_marina",
+      "name": "Yas Marina Circuit",
+      "location": "Abu Dhabi",
+      "country": "UAE",
+      "lat": 24.4672,
+      "lng": 54.6031,
+      "races_hosted": 15,
+      "total_entries": 298,
+      "dnfs": 43,
+      "dnf_rate": 14.4
+    },
+    {
+      "circuit_id": "17",
+      "circuit_ref": "interlagos",
+      "name": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+      "location": "S\u00e3o Paulo",
+      "country": "Brazil",
+      "lat": -23.7036,
+      "lng": -46.6997,
+      "races_hosted": 15,
+      "total_entries": 298,
+      "dnfs": 37,
+      "dnf_rate": 12.4
+    },
+    {
+      "circuit_id": "6",
+      "circuit_ref": "monaco",
+      "name": "Circuit de Monaco",
+      "location": "Monte-Carlo",
+      "country": "Monaco",
+      "lat": 43.7347,
+      "lng": 7.42056,
+      "races_hosted": 14,
+      "total_entries": 279,
+      "dnfs": 42,
+      "dnf_rate": 15.1
+    },
+    {
+      "circuit_id": "1",
+      "circuit_ref": "albert_park",
+      "name": "Albert Park Grand Prix Circuit",
+      "location": "Melbourne",
+      "country": "Australia",
+      "lat": -37.8497,
+      "lng": 144.968,
+      "races_hosted": 13,
+      "total_entries": 259,
+      "dnfs": 40,
+      "dnf_rate": 15.4
+    },
+    {
+      "circuit_id": "7",
+      "circuit_ref": "villeneuve",
+      "name": "Circuit Gilles Villeneuve",
+      "location": "Montreal",
+      "country": "Canada",
+      "lat": 45.5,
+      "lng": -73.5228,
+      "races_hosted": 13,
+      "total_entries": 259,
+      "dnfs": 35,
+      "dnf_rate": 13.5
+    },
+    {
+      "circuit_id": "13",
+      "circuit_ref": "marina_bay",
+      "name": "Marina Bay Street Circuit",
+      "location": "Marina Bay",
+      "country": "Singapore",
+      "lat": 1.2914,
+      "lng": 103.864,
+      "races_hosted": 13,
+      "total_entries": 259,
+      "dnfs": 36,
+      "dnf_rate": 13.9
+    },
+    {
+      "circuit_id": "14",
+      "circuit_ref": "suzuka",
+      "name": "Suzuka Circuit",
+      "location": "Suzuka",
+      "country": "Japan",
+      "lat": 34.8431,
+      "lng": 136.541,
+      "races_hosted": 13,
+      "total_entries": 259,
+      "dnfs": 38,
+      "dnf_rate": 14.7
+    },
+    {
+      "circuit_id": "18",
+      "circuit_ref": "americas",
+      "name": "Circuit of the Americas",
+      "location": "Austin",
+      "country": "USA",
+      "lat": 30.1328,
+      "lng": -97.6411,
+      "races_hosted": 13,
+      "total_entries": 259,
+      "dnfs": 35,
+      "dnf_rate": 13.5
+    },
+    {
+      "circuit_id": "3",
+      "circuit_ref": "shanghai",
+      "name": "Shanghai International Circuit",
+      "location": "Shanghai",
+      "country": "China",
+      "lat": 31.3389,
+      "lng": 121.22,
+      "races_hosted": 11,
+      "total_entries": 219,
+      "dnfs": 32,
+      "dnf_rate": 14.6
+    },
+    {
+      "circuit_id": "19",
+      "circuit_ref": "red_bull_ring",
+      "name": "Red Bull Ring",
+      "location": "Spielberg",
+      "country": "Austria",
+      "lat": 47.2197,
+      "lng": 14.7647,
+      "races_hosted": 11,
+      "total_entries": 219,
+      "dnfs": 33,
+      "dnf_rate": 15.1
+    },
+    {
+      "circuit_id": "21",
+      "circuit_ref": "rodriguez",
+      "name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+      "location": "Mexico City",
+      "country": "Mexico",
+      "lat": 19.4042,
+      "lng": -99.0907,
+      "races_hosted": 10,
+      "total_entries": 199,
+      "dnfs": 27,
+      "dnf_rate": 13.6
+    },
+    {
+      "circuit_id": "2",
+      "circuit_ref": "sepang",
+      "name": "Sepang International Circuit",
+      "location": "Kuala Lumpur",
+      "country": "Malaysia",
+      "lat": 2.76083,
+      "lng": 101.738,
+      "races_hosted": 8,
+      "total_entries": 159,
+      "dnfs": 22,
+      "dnf_rate": 13.8
+    },
+    {
+      "circuit_id": "20",
+      "circuit_ref": "sochi",
+      "name": "Sochi Autodrom",
+      "location": "Sochi",
+      "country": "Russia",
+      "lat": 43.4057,
+      "lng": 39.9578,
+      "races_hosted": 8,
+      "total_entries": 159,
+      "dnfs": 23,
+      "dnf_rate": 14.5
+    },
+    {
+      "circuit_id": "22",
+      "circuit_ref": "baku",
+      "name": "Baku City Circuit",
+      "location": "Baku",
+      "country": "Azerbaijan",
+      "lat": 40.3725,
+      "lng": 49.8533,
+      "races_hosted": 8,
+      "total_entries": 160,
+      "dnfs": 27,
+      "dnf_rate": 16.9
+    },
+    {
+      "circuit_id": "9",
+      "circuit_ref": "hockenheimring",
+      "name": "Hockenheimring",
+      "location": "Hockenheim",
+      "country": "Germany",
+      "lat": 49.3278,
+      "lng": 8.56583,
+      "races_hosted": 6,
+      "total_entries": 119,
+      "dnfs": 18,
+      "dnf_rate": 15.1
+    },
+    {
+      "circuit_id": "15",
+      "circuit_ref": "yeongam",
+      "name": "Korean International Circuit",
+      "location": "Yeongam County",
+      "country": "South Korea",
+      "lat": 34.7333,
+      "lng": 126.417,
+      "races_hosted": 4,
+      "total_entries": 79,
+      "dnfs": 11,
+      "dnf_rate": 13.9
+    },
+    {
+      "circuit_id": "23",
+      "circuit_ref": "ricard",
+      "name": "Circuit Paul Ricard",
+      "location": "Le Castellet",
+      "country": "France",
+      "lat": 43.2506,
+      "lng": 5.79167,
+      "races_hosted": 4,
+      "total_entries": 80,
+      "dnfs": 12,
+      "dnf_rate": 15.0
+    },
+    {
+      "circuit_id": "24",
+      "circuit_ref": "zandvoort",
+      "name": "Circuit Park Zandvoort",
+      "location": "Zandvoort",
+      "country": "Netherlands",
+      "lat": 52.3888,
+      "lng": 4.54092,
+      "races_hosted": 4,
+      "total_entries": 80,
+      "dnfs": 12,
+      "dnf_rate": 15.0
+    },
+    {
+      "circuit_id": "25",
+      "circuit_ref": "jeddah",
+      "name": "Jeddah Corniche Circuit",
+      "location": "Jeddah",
+      "country": "Saudi Arabia",
+      "lat": 21.6319,
+      "lng": 39.1044,
+      "races_hosted": 4,
+      "total_entries": 80,
+      "dnfs": 9,
+      "dnf_rate": 11.2
+    },
+    {
+      "circuit_id": "29",
+      "circuit_ref": "imola",
+      "name": "Autodromo Enzo e Dino Ferrari",
+      "location": "Imola",
+      "country": "Italy",
+      "lat": 44.3439,
+      "lng": 11.7167,
+      "races_hosted": 4,
+      "total_entries": 79,
+      "dnfs": 11,
+      "dnf_rate": 13.9
+    },
+    {
+      "circuit_id": "33",
+      "circuit_ref": "istanbul",
+      "name": "Istanbul Park",
+      "location": "Istanbul",
+      "country": "Turkey",
+      "lat": 40.9517,
+      "lng": 29.405,
+      "races_hosted": 4,
+      "total_entries": 78,
+      "dnfs": 11,
+      "dnf_rate": 14.1
+    },
+    {
+      "circuit_id": "26",
+      "circuit_ref": "losail",
+      "name": "Losail International Circuit",
+      "location": "Al Daayen",
+      "country": "Qatar",
+      "lat": 25.49,
+      "lng": 51.4542,
+      "races_hosted": 3,
+      "total_entries": 60,
+      "dnfs": 10,
+      "dnf_rate": 16.7
+    },
+    {
+      "circuit_id": "27",
+      "circuit_ref": "miami",
+      "name": "Miami International Autodrome",
+      "location": "Miami",
+      "country": "USA",
+      "lat": 25.9581,
+      "lng": -80.2389,
+      "races_hosted": 3,
+      "total_entries": 60,
+      "dnfs": 11,
+      "dnf_rate": 18.3
+    },
+    {
+      "circuit_id": "32",
+      "circuit_ref": "nurburgring",
+      "name": "N\u00fcrburgring",
+      "location": "N\u00fcrburg",
+      "country": "Germany",
+      "lat": 50.3356,
+      "lng": 6.9475,
+      "races_hosted": 3,
+      "total_entries": 59,
+      "dnfs": 8,
+      "dnf_rate": 13.6
+    },
+    {
+      "circuit_id": "28",
+      "circuit_ref": "las_vegas",
+      "name": "Las Vegas Strip Street Circuit",
+      "location": "Las Vegas",
+      "country": "USA",
+      "lat": 36.1147,
+      "lng": -115.173,
+      "races_hosted": 2,
+      "total_entries": 40,
+      "dnfs": 4,
+      "dnf_rate": 10.0
+    },
+    {
+      "circuit_id": "30",
+      "circuit_ref": "portimao",
+      "name": "Aut\u00f3dromo Internacional do Algarve",
+      "location": "Portim\u00e3o",
+      "country": "Portugal",
+      "lat": 37.227,
+      "lng": -8.6267,
+      "races_hosted": 2,
+      "total_entries": 39,
+      "dnfs": 4,
+      "dnf_rate": 10.3
+    },
+    {
+      "circuit_id": "31",
+      "circuit_ref": "mugello",
+      "name": "Mugello Circuit",
+      "location": "Scarperia e San Piero",
+      "country": "Italy",
+      "lat": 43.9975,
+      "lng": 11.3719,
+      "races_hosted": 1,
+      "total_entries": 19,
+      "dnfs": 2,
+      "dnf_rate": 10.5
+    }
+  ],
+  "reliability_trends": [
+    {
+      "season": 2010,
+      "total_entries": 342,
+      "classified": 303,
+      "dnfs": 39,
+      "completion_rate": 88.6,
+      "dnf_rate": 11.4
+    },
+    {
+      "season": 2011,
+      "total_entries": 360,
+      "classified": 302,
+      "dnfs": 58,
+      "completion_rate": 83.9,
+      "dnf_rate": 16.1
+    },
+    {
+      "season": 2012,
+      "total_entries": 360,
+      "classified": 311,
+      "dnfs": 49,
+      "completion_rate": 86.4,
+      "dnf_rate": 13.6
+    },
+    {
+      "season": 2013,
+      "total_entries": 360,
+      "classified": 310,
+      "dnfs": 50,
+      "completion_rate": 86.1,
+      "dnf_rate": 13.9
+    },
+    {
+      "season": 2014,
+      "total_entries": 380,
+      "classified": 329,
+      "dnfs": 51,
+      "completion_rate": 86.6,
+      "dnf_rate": 13.4
+    },
+    {
+      "season": 2015,
+      "total_entries": 380,
+      "classified": 328,
+      "dnfs": 52,
+      "completion_rate": 86.3,
+      "dnf_rate": 13.7
+    },
+    {
+      "season": 2016,
+      "total_entries": 420,
+      "classified": 355,
+      "dnfs": 65,
+      "completion_rate": 84.5,
+      "dnf_rate": 15.5
+    },
+    {
+      "season": 2017,
+      "total_entries": 400,
+      "classified": 341,
+      "dnfs": 59,
+      "completion_rate": 85.2,
+      "dnf_rate": 14.8
+    },
+    {
+      "season": 2018,
+      "total_entries": 420,
+      "classified": 366,
+      "dnfs": 54,
+      "completion_rate": 87.1,
+      "dnf_rate": 12.9
+    },
+    {
+      "season": 2019,
+      "total_entries": 420,
+      "classified": 359,
+      "dnfs": 61,
+      "completion_rate": 85.5,
+      "dnf_rate": 14.5
+    },
+    {
+      "season": 2020,
+      "total_entries": 323,
+      "classified": 282,
+      "dnfs": 41,
+      "completion_rate": 87.3,
+      "dnf_rate": 12.7
+    },
+    {
+      "season": 2021,
+      "total_entries": 420,
+      "classified": 353,
+      "dnfs": 67,
+      "completion_rate": 84.0,
+      "dnf_rate": 16.0
+    },
+    {
+      "season": 2022,
+      "total_entries": 440,
+      "classified": 376,
+      "dnfs": 64,
+      "completion_rate": 85.5,
+      "dnf_rate": 14.5
+    },
+    {
+      "season": 2023,
+      "total_entries": 440,
+      "classified": 381,
+      "dnfs": 59,
+      "completion_rate": 86.6,
+      "dnf_rate": 13.4
+    },
+    {
+      "season": 2024,
+      "total_entries": 480,
+      "classified": 407,
+      "dnfs": 73,
+      "completion_rate": 84.8,
+      "dnf_rate": 15.2
+    }
+  ],
+  "dnf_reasons": [
+    {
+      "reason": "Handling",
+      "count": 15,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "Driveshaft",
+      "count": 15,
+      "category": "Transmission/Gearbox"
+    },
+    {
+      "reason": "Retired",
+      "count": 13,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "Mechanical",
+      "count": 13,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "Water pump",
+      "count": 12,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "Fuel leak",
+      "count": 12,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "107% rule",
+      "count": 12,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "Safety belt",
+      "count": 11,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "Power Unit",
+      "count": 11,
+      "category": "Engine/Power Unit"
+    },
+    {
+      "reason": "Fire",
+      "count": 11,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "Drivetrain",
+      "count": 11,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "Broken wing",
+      "count": 11,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "Brake duct",
+      "count": 11,
+      "category": "Brakes/Hydraulics"
+    },
+    {
+      "reason": "Alternator",
+      "count": 11,
+      "category": "Other / Mechanical"
+    },
+    {
+      "reason": "Spun off",
+      "count": 10,
+      "category": "Collision/Accident"
+    }
+  ],
+  "reliability_constructors": [
+    {
+      "constructor_id": "4",
+      "name": "McLaren",
+      "total_entries": 619,
+      "classified": 524,
+      "dnf_count": 95,
+      "finish_rate": 84.7
+    },
+    {
+      "constructor_id": "1",
+      "name": "Red Bull",
+      "total_entries": 581,
+      "classified": 519,
+      "dnf_count": 62,
+      "finish_rate": 89.3
+    },
+    {
+      "constructor_id": "3",
+      "name": "Ferrari",
+      "total_entries": 598,
+      "classified": 512,
+      "dnf_count": 86,
+      "finish_rate": 85.6
+    },
+    {
+      "constructor_id": "13",
+      "name": "Williams",
+      "total_entries": 562,
+      "classified": 498,
+      "dnf_count": 64,
+      "finish_rate": 88.6
+    },
+    {
+      "constructor_id": "2",
+      "name": "Mercedes",
+      "total_entries": 544,
+      "classified": 482,
+      "dnf_count": 62,
+      "finish_rate": 88.6
+    },
+    {
+      "constructor_id": "17",
+      "name": "Haas F1 Team",
+      "total_entries": 378,
+      "classified": 331,
+      "dnf_count": 47,
+      "finish_rate": 87.6
+    },
+    {
+      "constructor_id": "8",
+      "name": "Force India",
+      "total_entries": 380,
+      "classified": 329,
+      "dnf_count": 51,
+      "finish_rate": 86.6
+    },
+    {
+      "constructor_id": "10",
+      "name": "Scuderia Toro Rosso",
+      "total_entries": 365,
+      "classified": 310,
+      "dnf_count": 55,
+      "finish_rate": 84.9
+    },
+    {
+      "constructor_id": "14",
+      "name": "Sauber",
+      "total_entries": 268,
+      "classified": 210,
+      "dnf_count": 58,
+      "finish_rate": 78.4
+    },
+    {
+      "constructor_id": "5",
+      "name": "Renault",
+      "total_entries": 234,
+      "classified": 193,
+      "dnf_count": 41,
+      "finish_rate": 82.5
+    },
+    {
+      "constructor_id": "15",
+      "name": "Alfa Romeo",
+      "total_entries": 206,
+      "classified": 165,
+      "dnf_count": 41,
+      "finish_rate": 80.1
+    },
+    {
+      "constructor_id": "6",
+      "name": "Alpine F1 Team",
+      "total_entries": 178,
+      "classified": 151,
+      "dnf_count": 27,
+      "finish_rate": 84.8
+    },
+    {
+      "constructor_id": "18",
+      "name": "Lotus F1",
+      "total_entries": 184,
+      "classified": 150,
+      "dnf_count": 34,
+      "finish_rate": 81.5
+    },
+    {
+      "constructor_id": "7",
+      "name": "Aston Martin",
+      "total_entries": 178,
+      "classified": 149,
+      "dnf_count": 29,
+      "finish_rate": 83.7
+    },
+    {
+      "constructor_id": "11",
+      "name": "AlphaTauri",
+      "total_entries": 164,
+      "classified": 132,
+      "dnf_count": 32,
+      "finish_rate": 80.5
+    },
+    {
+      "constructor_id": "20",
+      "name": "Marussia",
+      "total_entries": 128,
+      "classified": 115,
+      "dnf_count": 13,
+      "finish_rate": 89.8
+    },
+    {
+      "constructor_id": "21",
+      "name": "Manor Marussia",
+      "total_entries": 80,
+      "classified": 75,
+      "dnf_count": 5,
+      "finish_rate": 93.8
+    },
+    {
+      "constructor_id": "19",
+      "name": "Caterham",
+      "total_entries": 72,
+      "classified": 64,
+      "dnf_count": 8,
+      "finish_rate": 88.9
+    },
+    {
+      "constructor_id": "9",
+      "name": "Racing Point",
+      "total_entries": 76,
+      "classified": 63,
+      "dnf_count": 13,
+      "finish_rate": 82.9
+    },
+    {
+      "constructor_id": "22",
+      "name": "HRT",
+      "total_entries": 54,
+      "classified": 51,
+      "dnf_count": 3,
+      "finish_rate": 94.4
+    },
+    {
+      "constructor_id": "16",
+      "name": "Kick Sauber",
+      "total_entries": 48,
+      "classified": 40,
+      "dnf_count": 8,
+      "finish_rate": 83.3
+    },
+    {
+      "constructor_id": "12",
+      "name": "RB F1 Team",
+      "total_entries": 48,
+      "classified": 40,
+      "dnf_count": 8,
+      "finish_rate": 83.3
+    }
+  ],
+  "podiums_leaderboard": [
+    {
+      "driver_id": 2,
+      "driver_name": "Lewis Hamilton",
+      "constructor_name": "Mercedes",
+      "nationality": "British",
+      "wins": 78,
+      "seconds": 45,
+      "thirds": 26,
+      "total_podiums": 149,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 11,
+      "driver_name": "Max Verstappen",
+      "constructor_name": "Red Bull",
+      "nationality": "Dutch",
+      "wins": 48,
+      "seconds": 31,
+      "thirds": 27,
+      "total_podiums": 106,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 1,
+      "driver_name": "Sebastian Vettel",
+      "constructor_name": "Red Bull",
+      "nationality": "German",
+      "wins": 35,
+      "seconds": 26,
+      "thirds": 8,
+      "total_podiums": 69,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 10,
+      "driver_name": "Valtteri Bottas",
+      "constructor_name": "Mercedes",
+      "nationality": "Finnish",
+      "wins": 24,
+      "seconds": 22,
+      "thirds": 20,
+      "total_podiums": 66,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 8,
+      "driver_name": "Nico Rosberg",
+      "constructor_name": "Mercedes",
+      "nationality": "German",
+      "wins": 22,
+      "seconds": 25,
+      "thirds": 11,
+      "total_podiums": 58,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 15,
+      "driver_name": "Sergio P\u00e9rez",
+      "constructor_name": "Red Bull",
+      "nationality": "Mexican",
+      "wins": 12,
+      "seconds": 23,
+      "thirds": 18,
+      "total_podiums": 53,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 4,
+      "driver_name": "Mark Webber",
+      "constructor_name": "Red Bull",
+      "nationality": "Australian",
+      "wins": 15,
+      "seconds": 21,
+      "thirds": 6,
+      "total_podiums": 42,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 7,
+      "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+      "constructor_name": "Ferrari",
+      "nationality": "Finnish",
+      "wins": 7,
+      "seconds": 11,
+      "thirds": 20,
+      "total_podiums": 38,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 1,
+      "driver_name": "Sebastian Vettel",
+      "constructor_name": "Ferrari",
+      "nationality": "German",
+      "wins": 7,
+      "seconds": 15,
+      "thirds": 11,
+      "total_podiums": 33,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 12,
+      "driver_name": "Charles Leclerc",
+      "constructor_name": "Ferrari",
+      "nationality": "Monegasque",
+      "wins": 5,
+      "seconds": 11,
+      "thirds": 15,
+      "total_podiums": 31,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 9,
+      "driver_name": "Daniel Ricciardo",
+      "constructor_name": "Red Bull",
+      "nationality": "Australian",
+      "wins": 6,
+      "seconds": 10,
+      "thirds": 14,
+      "total_podiums": 30,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 5,
+      "driver_name": "Jenson Button",
+      "constructor_name": "McLaren",
+      "nationality": "British",
+      "wins": 6,
+      "seconds": 7,
+      "thirds": 13,
+      "total_podiums": 26,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 2,
+      "driver_name": "Lewis Hamilton",
+      "constructor_name": "McLaren",
+      "nationality": "British",
+      "wins": 7,
+      "seconds": 10,
+      "thirds": 7,
+      "total_podiums": 24,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 6,
+      "driver_name": "Felipe Massa",
+      "constructor_name": "Ferrari",
+      "nationality": "Brazilian",
+      "wins": 1,
+      "seconds": 3,
+      "thirds": 17,
+      "total_podiums": 21,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 22,
+      "driver_name": "George Russell",
+      "constructor_name": "Mercedes",
+      "nationality": "British",
+      "wins": 3,
+      "seconds": 11,
+      "thirds": 7,
+      "total_podiums": 21,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 13,
+      "driver_name": "Lando Norris",
+      "constructor_name": "McLaren",
+      "nationality": "British",
+      "wins": 2,
+      "seconds": 3,
+      "thirds": 15,
+      "total_podiums": 20,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 3,
+      "driver_name": "Fernando Alonso",
+      "constructor_name": "Ferrari",
+      "nationality": "Spanish",
+      "wins": 5,
+      "seconds": 5,
+      "thirds": 9,
+      "total_podiums": 19,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 14,
+      "driver_name": "Carlos Sainz",
+      "constructor_name": "Ferrari",
+      "nationality": "Spanish",
+      "wins": 4,
+      "seconds": 4,
+      "thirds": 10,
+      "total_podiums": 18,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 21,
+      "driver_name": "Oscar Piastri",
+      "constructor_name": "McLaren",
+      "nationality": "Australian",
+      "wins": 9,
+      "seconds": 6,
+      "thirds": 3,
+      "total_podiums": 18,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 16,
+      "driver_name": "Romain Grosjean",
+      "constructor_name": "Lotus F1",
+      "nationality": "French",
+      "wins": 2,
+      "seconds": 3,
+      "thirds": 4,
+      "total_podiums": 9,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 24,
+      "driver_name": "Pierre Gasly",
+      "constructor_name": "Red Bull",
+      "nationality": "French",
+      "wins": 1,
+      "seconds": 2,
+      "thirds": 4,
+      "total_podiums": 7,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 10,
+      "driver_name": "Valtteri Bottas",
+      "constructor_name": "Williams",
+      "nationality": "Finnish",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 4,
+      "total_podiums": 4,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 25,
+      "driver_name": "Daniil Kvyat",
+      "constructor_name": "Red Bull",
+      "nationality": "Russian",
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 3,
+      "total_podiums": 4,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 16,
+      "driver_name": "Romain Grosjean",
+      "constructor_name": "Renault",
+      "nationality": "French",
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 2,
+      "total_podiums": 3,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 17,
+      "driver_name": "Nico H\u00fclkenberg",
+      "constructor_name": "Force India",
+      "nationality": "German",
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 2,
+      "total_podiums": 3,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 3,
+      "driver_name": "Fernando Alonso",
+      "constructor_name": "Alpine F1 Team",
+      "nationality": "Spanish",
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 1,
+      "total_podiums": 2,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 6,
+      "driver_name": "Felipe Massa",
+      "constructor_name": "Williams",
+      "nationality": "Brazilian",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 2,
+      "total_podiums": 2,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 7,
+      "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+      "constructor_name": "Lotus F1",
+      "nationality": "Finnish",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 2,
+      "total_podiums": 2,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 15,
+      "driver_name": "Sergio P\u00e9rez",
+      "constructor_name": "Force India",
+      "nationality": "Mexican",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 2,
+      "total_podiums": 2,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 19,
+      "driver_name": "Lance Stroll",
+      "constructor_name": "Aston Martin",
+      "nationality": "Canadian",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 2,
+      "total_podiums": 2,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 19,
+      "driver_name": "Lance Stroll",
+      "constructor_name": "Racing Point",
+      "nationality": "Canadian",
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 1,
+      "total_podiums": 2,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 23,
+      "driver_name": "Esteban Ocon",
+      "constructor_name": "Alpine F1 Team",
+      "nationality": "French",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 2,
+      "total_podiums": 2,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 25,
+      "driver_name": "Daniil Kvyat",
+      "constructor_name": "AlphaTauri",
+      "nationality": "Russian",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 2,
+      "total_podiums": 2,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 3,
+      "driver_name": "Fernando Alonso",
+      "constructor_name": "Aston Martin",
+      "nationality": "Spanish",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "total_podiums": 1,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 3,
+      "driver_name": "Fernando Alonso",
+      "constructor_name": "McLaren",
+      "nationality": "Spanish",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "total_podiums": 1,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 7,
+      "driver_name": "Kimi R\u00e4ikk\u00f6nen",
+      "constructor_name": "Alfa Romeo",
+      "nationality": "Finnish",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "total_podiums": 1,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 9,
+      "driver_name": "Daniel Ricciardo",
+      "constructor_name": "McLaren",
+      "nationality": "Australian",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "total_podiums": 1,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 14,
+      "driver_name": "Carlos Sainz",
+      "constructor_name": "McLaren",
+      "nationality": "Spanish",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "total_podiums": 1,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 15,
+      "driver_name": "Sergio P\u00e9rez",
+      "constructor_name": "Racing Point",
+      "nationality": "Mexican",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "total_podiums": 1,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 18,
+      "driver_name": "Kevin Magnussen",
+      "constructor_name": "McLaren",
+      "nationality": "Danish",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "total_podiums": 1,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 23,
+      "driver_name": "Esteban Ocon",
+      "constructor_name": "Renault",
+      "nationality": "French",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "total_podiums": 1,
+      "podium_rate": null,
+      "race_starts": 0
+    },
+    {
+      "driver_id": 29,
+      "driver_name": "Paul di Resta",
+      "constructor_name": "Force India",
+      "nationality": "British",
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "total_podiums": 1,
+      "podium_rate": null,
+      "race_starts": 0
+    }
+  ],
+  "podiums_constructors": [
+    {
+      "name": "Red Bull",
+      "constructor_ref": "red_bull",
+      "p1": 117,
+      "p2": 114,
+      "p3": 80,
+      "total_podiums": 311
+    },
+    {
+      "name": "Mercedes",
+      "constructor_ref": "mercedes",
+      "p1": 127,
+      "p2": 103,
+      "p3": 64,
+      "total_podiums": 294
+    },
+    {
+      "name": "Ferrari",
+      "constructor_ref": "ferrari",
+      "p1": 29,
+      "p2": 49,
+      "p3": 82,
+      "total_podiums": 160
+    },
+    {
+      "name": "McLaren",
+      "constructor_ref": "mclaren",
+      "p1": 24,
+      "p2": 26,
+      "p3": 42,
+      "total_podiums": 92
+    },
+    {
+      "name": "Lotus F1",
+      "constructor_ref": "lotus_f1",
+      "p1": 2,
+      "p2": 3,
+      "p3": 6,
+      "total_podiums": 11
+    },
+    {
+      "name": "Williams",
+      "constructor_ref": "williams",
+      "p1": 0,
+      "p2": 0,
+      "p3": 6,
+      "total_podiums": 6
+    },
+    {
+      "name": "Force India",
+      "constructor_ref": "force_india",
+      "p1": 0,
+      "p2": 1,
+      "p3": 5,
+      "total_podiums": 6
+    },
+    {
+      "name": "Alpine F1 Team",
+      "constructor_ref": "alpine",
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "total_podiums": 4
+    },
+    {
+      "name": "Renault",
+      "constructor_ref": "renault",
+      "p1": 0,
+      "p2": 1,
+      "p3": 3,
+      "total_podiums": 4
+    },
+    {
+      "name": "Racing Point",
+      "constructor_ref": "racing_point",
+      "p1": 0,
+      "p2": 1,
+      "p3": 2,
+      "total_podiums": 3
+    },
+    {
+      "name": "Aston Martin",
+      "constructor_ref": "aston_martin",
+      "p1": 0,
+      "p2": 0,
+      "p3": 3,
+      "total_podiums": 3
+    },
+    {
+      "name": "AlphaTauri",
+      "constructor_ref": "alphatauri",
+      "p1": 0,
+      "p2": 0,
+      "p3": 2,
+      "total_podiums": 2
+    },
+    {
+      "name": "Alfa Romeo",
+      "constructor_ref": "alfa_romeo",
+      "p1": 0,
+      "p2": 0,
+      "p3": 1,
+      "total_podiums": 1
+    }
+  ],
+  "podiums_nationalities": [
+    {
+      "nationality": "British",
+      "wins": 96,
+      "podiums": 241
+    },
+    {
+      "nationality": "German",
+      "wins": 64,
+      "podiums": 163
+    },
+    {
+      "nationality": "Finnish",
+      "wins": 31,
+      "podiums": 111
+    },
+    {
+      "nationality": "Dutch",
+      "wins": 48,
+      "podiums": 106
+    },
+    {
+      "nationality": "Australian",
+      "wins": 30,
+      "podiums": 91
+    },
+    {
+      "nationality": "Mexican",
+      "wins": 12,
+      "podiums": 56
+    },
+    {
+      "nationality": "Spanish",
+      "wins": 9,
+      "podiums": 42
+    },
+    {
+      "nationality": "Monegasque",
+      "wins": 5,
+      "podiums": 31
+    },
+    {
+      "nationality": "Brazilian",
+      "wins": 1,
+      "podiums": 23
+    },
+    {
+      "nationality": "French",
+      "wins": 3,
+      "podiums": 22
+    },
+    {
+      "nationality": "Russian",
+      "wins": 0,
+      "podiums": 6
+    },
+    {
+      "nationality": "Canadian",
+      "wins": 0,
+      "podiums": 4
+    },
+    {
+      "nationality": "Danish",
+      "wins": 0,
+      "podiums": 1
+    }
+  ],
+  "insights": [
+    {
+      "category": "trend",
+      "title": "Red Bull declined in 2014",
+      "description": "Red Bull dropped from 677 points (2013) to 413 (2014), a 39.0% decrease.",
+      "metric_value": 413.0,
+      "comparison_value": 677.0,
+      "season_range": "2013-2014",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Red Bull declined in 2015",
+      "description": "Red Bull dropped from 413 points (2014) to 258 (2015), a 37.5% decrease.",
+      "metric_value": 258.0,
+      "comparison_value": 413.0,
+      "season_range": "2014-2015",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Red Bull surged in 2016",
+      "description": "Red Bull increased their points from 258 (2015) to 450 (2016), a 74.4% improvement.",
+      "metric_value": 450.0,
+      "comparison_value": 258.0,
+      "season_range": "2015-2016",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Red Bull declined in 2020",
+      "description": "Red Bull dropped from 408 points (2019) to 258 (2020), a 36.8% decrease.",
+      "metric_value": 258.0,
+      "comparison_value": 408.0,
+      "season_range": "2019-2020",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Red Bull surged in 2021",
+      "description": "Red Bull increased their points from 258 (2020) to 680 (2021), a 163.6% improvement.",
+      "metric_value": 680.0,
+      "comparison_value": 258.0,
+      "season_range": "2020-2021",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Mercedes surged in 2013",
+      "description": "Mercedes increased their points from 74 (2012) to 286 (2013), a 286.5% improvement.",
+      "metric_value": 286.0,
+      "comparison_value": 74.0,
+      "season_range": "2012-2013",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Mercedes surged in 2014",
+      "description": "Mercedes increased their points from 286 (2013) to 741 (2014), a 159.1% improvement.",
+      "metric_value": 741.0,
+      "comparison_value": 286.0,
+      "season_range": "2013-2014",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Ferrari declined in 2014",
+      "description": "Ferrari dropped from 340 points (2013) to 159 (2014), a 53.2% decrease.",
+      "metric_value": 159.0,
+      "comparison_value": 340.0,
+      "season_range": "2013-2014",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Ferrari surged in 2015",
+      "description": "Ferrari increased their points from 159 (2014) to 398 (2015), a 150.3% improvement.",
+      "metric_value": 398.0,
+      "comparison_value": 159.0,
+      "season_range": "2014-2015",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Ferrari declined in 2020",
+      "description": "Ferrari dropped from 483 points (2019) to 78 (2020), a 83.9% decrease.",
+      "metric_value": 78.0,
+      "comparison_value": 483.0,
+      "season_range": "2019-2020",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Ferrari surged in 2021",
+      "description": "Ferrari increased their points from 78 (2020) to 250 (2021), a 220.5% improvement.",
+      "metric_value": 250.0,
+      "comparison_value": 78.0,
+      "season_range": "2020-2021",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Ferrari surged in 2022",
+      "description": "Ferrari increased their points from 250 (2021) to 551 (2022), a 120.4% improvement.",
+      "metric_value": 551.0,
+      "comparison_value": 250.0,
+      "season_range": "2021-2022",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Ferrari declined in 2023",
+      "description": "Ferrari dropped from 551 points (2022) to 282 (2023), a 48.8% decrease.",
+      "metric_value": 282.0,
+      "comparison_value": 551.0,
+      "season_range": "2022-2023",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Ferrari surged in 2024",
+      "description": "Ferrari increased their points from 282 (2023) to 468 (2024), a 66.0% improvement.",
+      "metric_value": 468.0,
+      "comparison_value": 282.0,
+      "season_range": "2023-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "McLaren surged in 2011",
+      "description": "McLaren increased their points from 333 (2010) to 482 (2011), a 44.7% improvement.",
+      "metric_value": 482.0,
+      "comparison_value": 333.0,
+      "season_range": "2010-2011",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "McLaren declined in 2013",
+      "description": "McLaren dropped from 503 points (2012) to 138 (2013), a 72.6% decrease.",
+      "metric_value": 138.0,
+      "comparison_value": 503.0,
+      "season_range": "2012-2013",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "McLaren declined in 2015",
+      "description": "McLaren dropped from 153 points (2014) to 9 (2015), a 94.1% decrease.",
+      "metric_value": 9.0,
+      "comparison_value": 153.0,
+      "season_range": "2014-2015",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "McLaren surged in 2016",
+      "description": "McLaren increased their points from 9 (2015) to 51 (2016), a 466.7% improvement.",
+      "metric_value": 51.0,
+      "comparison_value": 9.0,
+      "season_range": "2015-2016",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "McLaren declined in 2017",
+      "description": "McLaren dropped from 51 points (2016) to 19 (2017), a 62.7% decrease.",
+      "metric_value": 19.0,
+      "comparison_value": 51.0,
+      "season_range": "2016-2017",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "McLaren surged in 2018",
+      "description": "McLaren increased their points from 19 (2017) to 46 (2018), a 142.1% improvement.",
+      "metric_value": 46.0,
+      "comparison_value": 19.0,
+      "season_range": "2017-2018",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "McLaren surged in 2019",
+      "description": "McLaren increased their points from 46 (2018) to 235 (2019), a 410.9% improvement.",
+      "metric_value": 235.0,
+      "comparison_value": 46.0,
+      "season_range": "2018-2019",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "McLaren declined in 2022",
+      "description": "McLaren dropped from 238 points (2021) to 118 (2022), a 50.4% decrease.",
+      "metric_value": 118.0,
+      "comparison_value": 238.0,
+      "season_range": "2021-2022",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "McLaren surged in 2023",
+      "description": "McLaren increased their points from 118 (2022) to 275 (2023), a 133.1% improvement.",
+      "metric_value": 275.0,
+      "comparison_value": 118.0,
+      "season_range": "2022-2023",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "McLaren surged in 2024",
+      "description": "McLaren increased their points from 275 (2023) to 716 (2024), a 160.4% improvement.",
+      "metric_value": 716.0,
+      "comparison_value": 275.0,
+      "season_range": "2023-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Renault surged in 2016",
+      "description": "Renault increased their points from 2 (2015) to 9 (2016), a 350.0% improvement.",
+      "metric_value": 9.0,
+      "comparison_value": 2.0,
+      "season_range": "2015-2016",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Renault surged in 2017",
+      "description": "Renault increased their points from 9 (2016) to 63 (2017), a 600.0% improvement.",
+      "metric_value": 63.0,
+      "comparison_value": 9.0,
+      "season_range": "2016-2017",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Renault surged in 2018",
+      "description": "Renault increased their points from 63 (2017) to 133 (2018), a 111.1% improvement.",
+      "metric_value": 133.0,
+      "comparison_value": 63.0,
+      "season_range": "2017-2018",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Renault declined in 2019",
+      "description": "Renault dropped from 133 points (2018) to 84 (2019), a 36.8% decrease.",
+      "metric_value": 84.0,
+      "comparison_value": 133.0,
+      "season_range": "2018-2019",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Renault surged in 2020",
+      "description": "Renault increased their points from 84 (2019) to 166 (2020), a 97.6% improvement.",
+      "metric_value": 166.0,
+      "comparison_value": 84.0,
+      "season_range": "2019-2020",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Alpine F1 Team declined in 2023",
+      "description": "Alpine F1 Team dropped from 176 points (2022) to 93 (2023), a 47.2% decrease.",
+      "metric_value": 93.0,
+      "comparison_value": 176.0,
+      "season_range": "2022-2023",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Alpine F1 Team declined in 2024",
+      "description": "Alpine F1 Team dropped from 93 points (2023) to 16 (2024), a 82.8% decrease.",
+      "metric_value": 16.0,
+      "comparison_value": 93.0,
+      "season_range": "2023-2024",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Aston Martin declined in 2022",
+      "description": "Aston Martin dropped from 77 points (2021) to 25 (2022), a 67.5% decrease.",
+      "metric_value": 25.0,
+      "comparison_value": 77.0,
+      "season_range": "2021-2022",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Aston Martin surged in 2023",
+      "description": "Aston Martin increased their points from 25 (2022) to 241 (2023), a 864.0% improvement.",
+      "metric_value": 241.0,
+      "comparison_value": 25.0,
+      "season_range": "2022-2023",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Aston Martin declined in 2024",
+      "description": "Aston Martin dropped from 241 points (2023) to 105 (2024), a 56.4% decrease.",
+      "metric_value": 105.0,
+      "comparison_value": 241.0,
+      "season_range": "2023-2024",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Force India surged in 2011",
+      "description": "Force India increased their points from 71 (2010) to 97 (2011), a 36.6% improvement.",
+      "metric_value": 97.0,
+      "comparison_value": 71.0,
+      "season_range": "2010-2011",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Force India declined in 2012",
+      "description": "Force India dropped from 97 points (2011) to 58 (2012), a 40.2% decrease.",
+      "metric_value": 58.0,
+      "comparison_value": 97.0,
+      "season_range": "2011-2012",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Force India surged in 2014",
+      "description": "Force India increased their points from 66 (2013) to 121 (2014), a 83.3% improvement.",
+      "metric_value": 121.0,
+      "comparison_value": 66.0,
+      "season_range": "2013-2014",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Force India surged in 2015",
+      "description": "Force India increased their points from 121 (2014) to 197 (2015), a 62.8% improvement.",
+      "metric_value": 197.0,
+      "comparison_value": 121.0,
+      "season_range": "2014-2015",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Racing Point surged in 2020",
+      "description": "Racing Point increased their points from 96 (2019) to 213 (2020), a 121.9% improvement.",
+      "metric_value": 213.0,
+      "comparison_value": 96.0,
+      "season_range": "2019-2020",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Scuderia Toro Rosso declined in 2012",
+      "description": "Scuderia Toro Rosso dropped from 32 points (2011) to 2 (2012), a 93.8% decrease.",
+      "metric_value": 2.0,
+      "comparison_value": 32.0,
+      "season_range": "2011-2012",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Scuderia Toro Rosso surged in 2013",
+      "description": "Scuderia Toro Rosso increased their points from 2 (2012) to 29 (2013), a 1350.0% improvement.",
+      "metric_value": 29.0,
+      "comparison_value": 2.0,
+      "season_range": "2012-2013",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Scuderia Toro Rosso surged in 2014",
+      "description": "Scuderia Toro Rosso increased their points from 29 (2013) to 56 (2014), a 93.1% improvement.",
+      "metric_value": 56.0,
+      "comparison_value": 29.0,
+      "season_range": "2013-2014",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Scuderia Toro Rosso surged in 2017",
+      "description": "Scuderia Toro Rosso increased their points from 54 (2016) to 80 (2017), a 48.1% improvement.",
+      "metric_value": 80.0,
+      "comparison_value": 54.0,
+      "season_range": "2016-2017",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Scuderia Toro Rosso declined in 2018",
+      "description": "Scuderia Toro Rosso dropped from 80 points (2017) to 26 (2018), a 67.5% decrease.",
+      "metric_value": 26.0,
+      "comparison_value": 80.0,
+      "season_range": "2017-2018",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Scuderia Toro Rosso declined in 2019",
+      "description": "Scuderia Toro Rosso dropped from 26 points (2018) to 17 (2019), a 34.6% decrease.",
+      "metric_value": 17.0,
+      "comparison_value": 26.0,
+      "season_range": "2018-2019",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "AlphaTauri declined in 2022",
+      "description": "AlphaTauri dropped from 81 points (2021) to 22 (2022), a 72.8% decrease.",
+      "metric_value": 22.0,
+      "comparison_value": 81.0,
+      "season_range": "2021-2022",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "AlphaTauri declined in 2023",
+      "description": "AlphaTauri dropped from 22 points (2022) to 8 (2023), a 63.6% decrease.",
+      "metric_value": 8.0,
+      "comparison_value": 22.0,
+      "season_range": "2022-2023",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Williams declined in 2011",
+      "description": "Williams dropped from 76 points (2010) to 21 (2011), a 72.4% decrease.",
+      "metric_value": 21.0,
+      "comparison_value": 76.0,
+      "season_range": "2010-2011",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Williams declined in 2012",
+      "description": "Williams dropped from 21 points (2011) to 9 (2012), a 57.1% decrease.",
+      "metric_value": 9.0,
+      "comparison_value": 21.0,
+      "season_range": "2011-2012",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Williams declined in 2013",
+      "description": "Williams dropped from 9 points (2012) to 6 (2013), a 33.3% decrease.",
+      "metric_value": 6.0,
+      "comparison_value": 9.0,
+      "season_range": "2012-2013",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Williams surged in 2014",
+      "description": "Williams increased their points from 6 (2013) to 224 (2014), a 3633.3% improvement.",
+      "metric_value": 224.0,
+      "comparison_value": 6.0,
+      "season_range": "2013-2014",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Williams declined in 2016",
+      "description": "Williams dropped from 182 points (2015) to 115 (2016), a 36.8% decrease.",
+      "metric_value": 115.0,
+      "comparison_value": 182.0,
+      "season_range": "2015-2016",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Williams declined in 2017",
+      "description": "Williams dropped from 115 points (2016) to 58 (2017), a 49.6% decrease.",
+      "metric_value": 58.0,
+      "comparison_value": 115.0,
+      "season_range": "2016-2017",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Williams declined in 2018",
+      "description": "Williams dropped from 58 points (2017) to 2 (2018), a 96.6% decrease.",
+      "metric_value": 2.0,
+      "comparison_value": 58.0,
+      "season_range": "2017-2018",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Williams declined in 2019",
+      "description": "Williams dropped from 2 points (2018) to 0 (2019), a 100.0% decrease.",
+      "metric_value": 0.0,
+      "comparison_value": 2.0,
+      "season_range": "2018-2019",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Williams surged in 2022",
+      "description": "Williams increased their points from 8 (2021) to 14 (2022), a 75.0% improvement.",
+      "metric_value": 14.0,
+      "comparison_value": 8.0,
+      "season_range": "2021-2022",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Williams surged in 2023",
+      "description": "Williams increased their points from 14 (2022) to 36 (2023), a 157.1% improvement.",
+      "metric_value": 36.0,
+      "comparison_value": 14.0,
+      "season_range": "2022-2023",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Williams declined in 2024",
+      "description": "Williams dropped from 36 points (2023) to 14 (2024), a 61.1% decrease.",
+      "metric_value": 14.0,
+      "comparison_value": 36.0,
+      "season_range": "2023-2024",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Sauber declined in 2011",
+      "description": "Sauber dropped from 25 points (2010) to 11 (2011), a 56.0% decrease.",
+      "metric_value": 11.0,
+      "comparison_value": 25.0,
+      "season_range": "2010-2011",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Sauber surged in 2012",
+      "description": "Sauber increased their points from 11 (2011) to 31 (2012), a 181.8% improvement.",
+      "metric_value": 31.0,
+      "comparison_value": 11.0,
+      "season_range": "2011-2012",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Sauber declined in 2013",
+      "description": "Sauber dropped from 31 points (2012) to 12 (2013), a 61.3% decrease.",
+      "metric_value": 12.0,
+      "comparison_value": 31.0,
+      "season_range": "2012-2013",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Sauber surged in 2014",
+      "description": "Sauber increased their points from 12 (2013) to 32 (2014), a 166.7% improvement.",
+      "metric_value": 32.0,
+      "comparison_value": 12.0,
+      "season_range": "2013-2014",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Sauber declined in 2015",
+      "description": "Sauber dropped from 32 points (2014) to 15 (2015), a 53.1% decrease.",
+      "metric_value": 15.0,
+      "comparison_value": 32.0,
+      "season_range": "2014-2015",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Sauber declined in 2016",
+      "description": "Sauber dropped from 15 points (2015) to 0 (2016), a 100.0% decrease.",
+      "metric_value": 0.0,
+      "comparison_value": 15.0,
+      "season_range": "2015-2016",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Sauber surged in 2018",
+      "description": "Sauber increased their points from 10 (2017) to 18 (2018), a 80.0% improvement.",
+      "metric_value": 18.0,
+      "comparison_value": 10.0,
+      "season_range": "2017-2018",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Alfa Romeo declined in 2021",
+      "description": "Alfa Romeo dropped from 29 points (2020) to 17 (2021), a 41.4% decrease.",
+      "metric_value": 17.0,
+      "comparison_value": 29.0,
+      "season_range": "2020-2021",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Alfa Romeo surged in 2022",
+      "description": "Alfa Romeo increased their points from 17 (2021) to 130 (2022), a 664.7% improvement.",
+      "metric_value": 130.0,
+      "comparison_value": 17.0,
+      "season_range": "2021-2022",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Alfa Romeo declined in 2023",
+      "description": "Alfa Romeo dropped from 130 points (2022) to 12 (2023), a 90.8% decrease.",
+      "metric_value": 12.0,
+      "comparison_value": 130.0,
+      "season_range": "2022-2023",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Haas F1 Team declined in 2017",
+      "description": "Haas F1 Team dropped from 49 points (2016) to 34 (2017), a 30.6% decrease.",
+      "metric_value": 34.0,
+      "comparison_value": 49.0,
+      "season_range": "2016-2017",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Haas F1 Team surged in 2018",
+      "description": "Haas F1 Team increased their points from 34 (2017) to 93 (2018), a 173.5% improvement.",
+      "metric_value": 93.0,
+      "comparison_value": 34.0,
+      "season_range": "2017-2018",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Haas F1 Team declined in 2019",
+      "description": "Haas F1 Team dropped from 93 points (2018) to 16 (2019), a 82.8% decrease.",
+      "metric_value": 16.0,
+      "comparison_value": 93.0,
+      "season_range": "2018-2019",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Haas F1 Team surged in 2020",
+      "description": "Haas F1 Team increased their points from 16 (2019) to 23 (2020), a 43.8% improvement.",
+      "metric_value": 23.0,
+      "comparison_value": 16.0,
+      "season_range": "2019-2020",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Haas F1 Team declined in 2021",
+      "description": "Haas F1 Team dropped from 23 points (2020) to 0 (2021), a 100.0% decrease.",
+      "metric_value": 0.0,
+      "comparison_value": 23.0,
+      "season_range": "2020-2021",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Haas F1 Team declined in 2023",
+      "description": "Haas F1 Team dropped from 26 points (2022) to 2 (2023), a 92.3% decrease.",
+      "metric_value": 2.0,
+      "comparison_value": 26.0,
+      "season_range": "2022-2023",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Haas F1 Team surged in 2024",
+      "description": "Haas F1 Team increased their points from 2 (2023) to 18 (2024), a 800.0% improvement.",
+      "metric_value": 18.0,
+      "comparison_value": 2.0,
+      "season_range": "2023-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Lotus F1 surged in 2011",
+      "description": "Lotus F1 increased their points from 5 (2010) to 65 (2011), a 1200.0% improvement.",
+      "metric_value": 65.0,
+      "comparison_value": 5.0,
+      "season_range": "2010-2011",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Lotus F1 surged in 2012",
+      "description": "Lotus F1 increased their points from 65 (2011) to 225 (2012), a 246.2% improvement.",
+      "metric_value": 225.0,
+      "comparison_value": 65.0,
+      "season_range": "2011-2012",
+      "severity": "positive"
+    },
+    {
+      "category": "trend",
+      "title": "Lotus F1 declined in 2014",
+      "description": "Lotus F1 dropped from 264 points (2013) to 20 (2014), a 92.4% decrease.",
+      "metric_value": 20.0,
+      "comparison_value": 264.0,
+      "season_range": "2013-2014",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Caterham declined in 2011",
+      "description": "Caterham dropped from 9 points (2010) to 0 (2011), a 100.0% decrease.",
+      "metric_value": 0.0,
+      "comparison_value": 9.0,
+      "season_range": "2010-2011",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "Marussia declined in 2012",
+      "description": "Marussia dropped from 2 points (2011) to 0 (2012), a 100.0% decrease.",
+      "metric_value": 0.0,
+      "comparison_value": 2.0,
+      "season_range": "2011-2012",
+      "severity": "negative"
+    },
+    {
+      "category": "trend",
+      "title": "HRT declined in 2011",
+      "description": "HRT dropped from 6 points (2010) to 0 (2011), a 100.0% decrease.",
+      "metric_value": 0.0,
+      "comparison_value": 6.0,
+      "season_range": "2010-2011",
+      "severity": "negative"
+    },
+    {
+      "category": "performance",
+      "title": "Sebastian Vettel: Declining podium trend",
+      "description": "Sebastian Vettel's podium rate fell from 69.2% in earlier seasons to 24.5% in recent seasons.",
+      "metric_value": 24.5,
+      "comparison_value": 69.2,
+      "season_range": "2010-2024",
+      "severity": "negative"
+    },
+    {
+      "category": "performance",
+      "title": "Jenson Button: Declining podium trend",
+      "description": "Jenson Button's podium rate fell from 47.9% in earlier seasons to 3.3% in recent seasons.",
+      "metric_value": 3.3,
+      "comparison_value": 47.9,
+      "season_range": "2010-2024",
+      "severity": "negative"
+    },
+    {
+      "category": "performance",
+      "title": "Felipe Massa: Declining podium trend",
+      "description": "Felipe Massa's podium rate fell from 33.2% in earlier seasons to 2.9% in recent seasons.",
+      "metric_value": 2.9,
+      "comparison_value": 33.2,
+      "season_range": "2010-2024",
+      "severity": "negative"
+    },
+    {
+      "category": "performance",
+      "title": "Kimi R\u00e4ikk\u00f6nen: Rising podium trend",
+      "description": "Kimi R\u00e4ikk\u00f6nen's podium rate improved from 11.9% in earlier seasons to 29.4% in recent seasons.",
+      "metric_value": 29.4,
+      "comparison_value": 11.9,
+      "season_range": "2010-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "performance",
+      "title": "Nico Rosberg: Rising podium trend",
+      "description": "Nico Rosberg's podium rate improved from 4.2% in earlier seasons to 76.9% in recent seasons.",
+      "metric_value": 76.9,
+      "comparison_value": 4.2,
+      "season_range": "2010-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "performance",
+      "title": "Max Verstappen: Rising podium trend",
+      "description": "Max Verstappen's podium rate improved from 23.7% in earlier seasons to 80.4% in recent seasons.",
+      "metric_value": 80.4,
+      "comparison_value": 23.7,
+      "season_range": "2010-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "performance",
+      "title": "Carlos Sainz: Rising podium trend",
+      "description": "Carlos Sainz's podium rate improved from 0.0% in earlier seasons to 19.8% in recent seasons.",
+      "metric_value": 19.8,
+      "comparison_value": 0.0,
+      "season_range": "2010-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "performance",
+      "title": "Sergio P\u00e9rez: Rising podium trend",
+      "description": "Sergio P\u00e9rez's podium rate improved from 1.8% in earlier seasons to 42.1% in recent seasons.",
+      "metric_value": 42.1,
+      "comparison_value": 1.8,
+      "season_range": "2010-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "performance",
+      "title": "Oscar Piastri: Rising podium trend",
+      "description": "Oscar Piastri's podium rate improved from 15.0% in earlier seasons to 65.2% in recent seasons.",
+      "metric_value": 65.2,
+      "comparison_value": 15.0,
+      "season_range": "2010-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "performance",
+      "title": "George Russell: Rising podium trend",
+      "description": "George Russell's podium rate improved from 0.0% in earlier seasons to 36.5% in recent seasons.",
+      "metric_value": 36.5,
+      "comparison_value": 0.0,
+      "season_range": "2010-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "consistency",
+      "title": "Max Chilton: Exceptionally consistent",
+      "description": "Max Chilton finished 104 of 110 races (94.5% finish rate) in the 2010-2024 period.",
+      "metric_value": 94.5,
+      "comparison_value": null,
+      "season_range": "2010-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "consistency",
+      "title": "Oscar Piastri: Exceptionally consistent",
+      "description": "Oscar Piastri finished 43 of 46 races (93.5% finish rate) in the 2010-2024 period.",
+      "metric_value": 93.5,
+      "comparison_value": null,
+      "season_range": "2010-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "consistency",
+      "title": "Max Verstappen: Exceptionally consistent",
+      "description": "Max Verstappen finished 190 of 208 races (91.3% finish rate) in the 2010-2024 period.",
+      "metric_value": 91.3,
+      "comparison_value": null,
+      "season_range": "2010-2024",
+      "severity": "positive"
+    },
+    {
+      "category": "performance",
+      "title": "Lewis Hamilton: Most wins",
+      "description": "Lewis Hamilton leads with 85 race wins in the 2010-2024 period.",
+      "metric_value": 85.0,
+      "comparison_value": 48.0,
+      "season_range": "2010-2024",
+      "severity": "info"
+    }
+  ],
+  "tyre_analysis": {
+    "data_available": false,
+    "message": "Detailed tyre compound data (Soft, Medium, Hard, Intermediate, Wet) requires stint-level telemetry and pit strategy records not included in the standard Ergast/Jolpica database. Stint analysis is disabled to prevent simulating or fabricating unverified historical tyre usage.",
+    "data": []
+  },
+  "data_quality": [
+    {
+      "table_name": "circuits",
+      "total_rows": 34,
+      "null_counts": {},
+      "completeness": 100.0,
+      "date_range": null
+    },
+    {
+      "table_name": "constructorStandings",
+      "total_rows": 3192,
+      "null_counts": {},
+      "completeness": 100.0,
+      "date_range": null
+    },
+    {
+      "table_name": "constructors",
+      "total_rows": 22,
+      "null_counts": {},
+      "completeness": 100.0,
+      "date_range": null
+    },
+    {
+      "table_name": "driverStandings",
+      "total_rows": 5945,
+      "null_counts": {},
+      "completeness": 100.0,
+      "date_range": null
+    },
+    {
+      "table_name": "drivers",
+      "total_rows": 43,
+      "null_counts": {},
+      "completeness": 100.0,
+      "date_range": null
+    },
+    {
+      "table_name": "lapTimes",
+      "total_rows": 0,
+      "null_counts": {},
+      "completeness": 100.0,
+      "date_range": null
+    },
+    {
+      "table_name": "pitStops",
+      "total_rows": 0,
+      "null_counts": {},
+      "completeness": 100.0,
+      "date_range": null
+    },
+    {
+      "table_name": "qualifying",
+      "total_rows": 5945,
+      "null_counts": {
+        "q2": 1460,
+        "q3": 2955
+      },
+      "completeness": 91.75,
+      "date_range": null
+    },
+    {
+      "table_name": "races",
+      "total_rows": 299,
+      "null_counts": {},
+      "completeness": 100.0,
+      "date_range": "2010-2024"
+    },
+    {
+      "table_name": "results",
+      "total_rows": 5945,
+      "null_counts": {
+        "position": 842,
+        "time": 842,
+        "milliseconds": 5945
+      },
+      "completeness": 92.87,
+      "date_range": null
+    },
+    {
+      "table_name": "seasons",
+      "total_rows": 15,
+      "null_counts": {},
+      "completeness": 100.0,
+      "date_range": "2010-2024"
+    },
+    {
+      "table_name": "status",
+      "total_rows": 139,
+      "null_counts": {},
+      "completeness": 100.0,
+      "date_range": null
+    }
+  ],
+  "races": [
+    {
+      "raceId": 1,
+      "year": 2010,
+      "round": 1,
+      "circuitId": 4,
+      "name": "Bahrain Grand Prix",
+      "date": "2010-03-14",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Bahrain_Grand_Prix"
+    },
+    {
+      "raceId": 2,
+      "year": 2010,
+      "round": 2,
+      "circuitId": 1,
+      "name": "Australian Grand Prix",
+      "date": "2010-03-26",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Australian_Grand_Prix"
+    },
+    {
+      "raceId": 3,
+      "year": 2010,
+      "round": 3,
+      "circuitId": 2,
+      "name": "Malaysian Grand Prix",
+      "date": "2010-04-07",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Malaysian_Grand_Prix"
+    },
+    {
+      "raceId": 4,
+      "year": 2010,
+      "round": 4,
+      "circuitId": 3,
+      "name": "Chinese Grand Prix",
+      "date": "2010-04-21",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Chinese_Grand_Prix"
+    },
+    {
+      "raceId": 5,
+      "year": 2010,
+      "round": 5,
+      "circuitId": 5,
+      "name": "Spanish Grand Prix",
+      "date": "2010-05-04",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Spanish_Grand_Prix"
+    },
+    {
+      "raceId": 6,
+      "year": 2010,
+      "round": 6,
+      "circuitId": 6,
+      "name": "Monaco Grand Prix",
+      "date": "2010-05-17",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Monaco_Grand_Prix"
+    },
+    {
+      "raceId": 7,
+      "year": 2010,
+      "round": 7,
+      "circuitId": 33,
+      "name": "Turkish Grand Prix",
+      "date": "2010-05-30",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Turkish_Grand_Prix"
+    },
+    {
+      "raceId": 8,
+      "year": 2010,
+      "round": 8,
+      "circuitId": 7,
+      "name": "Canadian Grand Prix",
+      "date": "2010-06-11",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Canadian_Grand_Prix"
+    },
+    {
+      "raceId": 9,
+      "year": 2010,
+      "round": 9,
+      "circuitId": 8,
+      "name": "British Grand Prix",
+      "date": "2010-06-27",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_British_Grand_Prix"
+    },
+    {
+      "raceId": 10,
+      "year": 2010,
+      "round": 10,
+      "circuitId": 9,
+      "name": "German Grand Prix",
+      "date": "2010-07-09",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_German_Grand_Prix"
+    },
+    {
+      "raceId": 11,
+      "year": 2010,
+      "round": 11,
+      "circuitId": 10,
+      "name": "Hungarian Grand Prix",
+      "date": "2010-07-25",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Hungarian_Grand_Prix"
+    },
+    {
+      "raceId": 12,
+      "year": 2010,
+      "round": 12,
+      "circuitId": 11,
+      "name": "Belgian Grand Prix",
+      "date": "2010-08-09",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Belgian_Grand_Prix"
+    },
+    {
+      "raceId": 13,
+      "year": 2010,
+      "round": 13,
+      "circuitId": 12,
+      "name": "Italian Grand Prix",
+      "date": "2010-08-21",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Italian_Grand_Prix"
+    },
+    {
+      "raceId": 14,
+      "year": 2010,
+      "round": 14,
+      "circuitId": 13,
+      "name": "Singapore Grand Prix",
+      "date": "2010-09-02",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Singapore_Grand_Prix"
+    },
+    {
+      "raceId": 15,
+      "year": 2010,
+      "round": 15,
+      "circuitId": 14,
+      "name": "Japanese Grand Prix",
+      "date": "2010-09-14",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Japanese_Grand_Prix"
+    },
+    {
+      "raceId": 16,
+      "year": 2010,
+      "round": 16,
+      "circuitId": 15,
+      "name": "Korean Grand Prix",
+      "date": "2010-09-27",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Korean_Grand_Prix"
+    },
+    {
+      "raceId": 17,
+      "year": 2010,
+      "round": 17,
+      "circuitId": 17,
+      "name": "Brazilian Grand Prix",
+      "date": "2010-10-10",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Brazilian_Grand_Prix"
+    },
+    {
+      "raceId": 18,
+      "year": 2010,
+      "round": 18,
+      "circuitId": 16,
+      "name": "Abu Dhabi Grand Prix",
+      "date": "2010-10-26",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2010_Abu_Dhabi_Grand_Prix"
+    },
+    {
+      "raceId": 19,
+      "year": 2011,
+      "round": 1,
+      "circuitId": 4,
+      "name": "Bahrain Grand Prix",
+      "date": "2011-03-14",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_Bahrain_Grand_Prix"
+    },
+    {
+      "raceId": 20,
+      "year": 2011,
+      "round": 2,
+      "circuitId": 1,
+      "name": "Australian Grand Prix",
+      "date": "2011-03-26",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_Australian_Grand_Prix"
+    },
+    {
+      "raceId": 21,
+      "year": 2011,
+      "round": 3,
+      "circuitId": 2,
+      "name": "Malaysian Grand Prix",
+      "date": "2011-04-11",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_Malaysian_Grand_Prix"
+    },
+    {
+      "raceId": 22,
+      "year": 2011,
+      "round": 4,
+      "circuitId": 3,
+      "name": "Chinese Grand Prix",
+      "date": "2011-04-24",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_Chinese_Grand_Prix"
+    },
+    {
+      "raceId": 23,
+      "year": 2011,
+      "round": 5,
+      "circuitId": 33,
+      "name": "Turkish Grand Prix",
+      "date": "2011-05-10",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_Turkish_Grand_Prix"
+    },
+    {
+      "raceId": 24,
+      "year": 2011,
+      "round": 6,
+      "circuitId": 5,
+      "name": "Spanish Grand Prix",
+      "date": "2011-05-25",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_Spanish_Grand_Prix"
+    },
+    {
+      "raceId": 25,
+      "year": 2011,
+      "round": 7,
+      "circuitId": 6,
+      "name": "Monaco Grand Prix",
+      "date": "2011-06-07",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_Monaco_Grand_Prix"
+    },
+    {
+      "raceId": 26,
+      "year": 2011,
+      "round": 8,
+      "circuitId": 7,
+      "name": "Canadian Grand Prix",
+      "date": "2011-06-22",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_Canadian_Grand_Prix"
+    },
+    {
+      "raceId": 27,
+      "year": 2011,
+      "round": 9,
+      "circuitId": 8,
+      "name": "British Grand Prix",
+      "date": "2011-07-08",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_British_Grand_Prix"
+    },
+    {
+      "raceId": 28,
+      "year": 2011,
+      "round": 10,
+      "circuitId": 32,
+      "name": "German Grand Prix",
+      "date": "2011-07-22",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_German_Grand_Prix"
+    },
+    {
+      "raceId": 29,
+      "year": 2011,
+      "round": 11,
+      "circuitId": 10,
+      "name": "Hungarian Grand Prix",
+      "date": "2011-08-03",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_Hungarian_Grand_Prix"
+    },
+    {
+      "raceId": 30,
+      "year": 2011,
+      "round": 12,
+      "circuitId": 11,
+      "name": "Belgian Grand Prix",
+      "date": "2011-08-16",
+      "time": "14:00:00",
+      "url": "https://en.wikipedia.org/wiki/2011_Belgian_Grand_Prix"
+    }
+  ],
+  "results": [
+    {
+      "resultId": 1,
+      "raceId": 1,
+      "driverId": 1,
+      "constructorId": 1,
+      "number": 5,
+      "grid": 1,
+      "position": 1,
+      "positionText": "1",
+      "positionOrder": 1,
+      "points": 25.0,
+      "laps": 53,
+      "time": "1:20:40.605",
+      "milliseconds": null,
+      "fastestLap": 37,
+      "rank": 1,
+      "fastestLapTime": "1:24.936",
+      "fastestLapSpeed": "219.458",
+      "statusId": 1
+    },
+    {
+      "resultId": 2,
+      "raceId": 1,
+      "driverId": 5,
+      "constructorId": 4,
+      "number": 22,
+      "grid": 4,
+      "position": 2,
+      "positionText": "2",
+      "positionOrder": 2,
+      "points": 18.0,
+      "laps": 53,
+      "time": "+27.736s",
+      "milliseconds": null,
+      "fastestLap": 55,
+      "rank": 2,
+      "fastestLapTime": "1:25.328",
+      "fastestLapSpeed": "191.775",
+      "statusId": 1
+    },
+    {
+      "resultId": 3,
+      "raceId": 1,
+      "driverId": 4,
+      "constructorId": 1,
+      "number": 2,
+      "grid": 3,
+      "position": 3,
+      "positionText": "3",
+      "positionOrder": 3,
+      "points": 15.0,
+      "laps": 53,
+      "time": "+31.039s",
+      "milliseconds": null,
+      "fastestLap": 40,
+      "rank": 3,
+      "fastestLapTime": "1:26.985",
+      "fastestLapSpeed": "194.891",
+      "statusId": 1
+    },
+    {
+      "resultId": 4,
+      "raceId": 1,
+      "driverId": 2,
+      "constructorId": 4,
+      "number": 44,
+      "grid": 2,
+      "position": 4,
+      "positionText": "4",
+      "positionOrder": 4,
+      "points": 12.0,
+      "laps": 53,
+      "time": "+26.968s",
+      "milliseconds": null,
+      "fastestLap": 46,
+      "rank": 4,
+      "fastestLapTime": "1:30.795",
+      "fastestLapSpeed": "224.439",
+      "statusId": 2
+    },
+    {
+      "resultId": 5,
+      "raceId": 1,
+      "driverId": 6,
+      "constructorId": 3,
+      "number": 19,
+      "grid": 5,
+      "position": 5,
+      "positionText": "5",
+      "positionOrder": 5,
+      "points": 10.0,
+      "laps": 53,
+      "time": "+13.500s",
+      "milliseconds": null,
+      "fastestLap": 35,
+      "rank": 5,
+      "fastestLapTime": "1:26.139",
+      "fastestLapSpeed": "196.710",
+      "statusId": 1
+    },
+    {
+      "resultId": 6,
+      "raceId": 1,
+      "driverId": 16,
+      "constructorId": 5,
+      "number": 8,
+      "grid": 10,
+      "position": null,
+      "positionText": "R",
+      "positionOrder": 25,
+      "points": 0.0,
+      "laps": 22,
+      "time": null,
+      "milliseconds": null,
+      "fastestLap": 53,
+      "rank": 6,
+      "fastestLapTime": "1:28.546",
+      "fastestLapSpeed": "228.623",
+      "statusId": 69
+    },
+    {
+      "resultId": 7,
+      "raceId": 1,
+      "driverId": 17,
+      "constructorId": 13,
+      "number": 27,
+      "grid": 11,
+      "position": 6,
+      "positionText": "6",
+      "positionOrder": 6,
+      "points": 8.0,
+      "laps": 53,
+      "time": "+12.521s",
+      "milliseconds": null,
+      "fastestLap": 36,
+      "rank": 7,
+      "fastestLapTime": "1:26.145",
+      "fastestLapSpeed": "235.546",
+      "statusId": 1
+    },
+    {
+      "resultId": 8,
+      "raceId": 1,
+      "driverId": 29,
+      "constructorId": 8,
+      "number": 40,
+      "grid": 9,
+      "position": 7,
+      "positionText": "7",
+      "positionOrder": 7,
+      "points": 6.0,
+      "laps": 53,
+      "time": "+50.811s",
+      "milliseconds": null,
+      "fastestLap": 47,
+      "rank": 8,
+      "fastestLapTime": "1:24.472",
+      "fastestLapSpeed": "217.171",
+      "statusId": 1
+    },
+    {
+      "resultId": 9,
+      "raceId": 1,
+      "driverId": 27,
+      "constructorId": 8,
+      "number": 99,
+      "grid": 8,
+      "position": null,
+      "positionText": "R",
+      "positionOrder": 28,
+      "points": 0.0,
+      "laps": 21,
+      "time": null,
+      "milliseconds": null,
+      "fastestLap": 49,
+      "rank": 9,
+      "fastestLapTime": "1:28.779",
+      "fastestLapSpeed": "197.837",
+      "statusId": 99
+    },
+    {
+      "resultId": 10,
+      "raceId": 1,
+      "driverId": 3,
+      "constructorId": 3,
+      "number": 14,
+      "grid": 6,
+      "position": 8,
+      "positionText": "8",
+      "positionOrder": 8,
+      "points": 4.0,
+      "laps": 53,
+      "time": "+16.487s",
+      "milliseconds": null,
+      "fastestLap": 51,
+      "rank": 10,
+      "fastestLapTime": "1:31.434",
+      "fastestLapSpeed": "215.813",
+      "statusId": 2
+    },
+    {
+      "resultId": 11,
+      "raceId": 1,
+      "driverId": 7,
+      "constructorId": 18,
+      "number": 7,
+      "grid": 15,
+      "position": 9,
+      "positionText": "9",
+      "positionOrder": 9,
+      "points": 2.0,
+      "laps": 53,
+      "time": "+57.679s",
+      "milliseconds": null,
+      "fastestLap": 36,
+      "rank": 11,
+      "fastestLapTime": "1:31.780",
+      "fastestLapSpeed": "214.793",
+      "statusId": 2
+    },
+    {
+      "resultId": 12,
+      "raceId": 1,
+      "driverId": 8,
+      "constructorId": 2,
+      "number": 6,
+      "grid": 7,
+      "position": 10,
+      "positionText": "10",
+      "positionOrder": 10,
+      "points": 1.0,
+      "laps": 53,
+      "time": "+56.858s",
+      "milliseconds": null,
+      "fastestLap": 48,
+      "rank": 12,
+      "fastestLapTime": "1:27.515",
+      "fastestLapSpeed": "225.953",
+      "statusId": 3
+    },
+    {
+      "resultId": 13,
+      "raceId": 1,
+      "driverId": 30,
+      "constructorId": 10,
+      "number": 25,
+      "grid": 13,
+      "position": 11,
+      "positionText": "11",
+      "positionOrder": 11,
+      "points": 0.0,
+      "laps": 53,
+      "time": "+52.135s",
+      "milliseconds": null,
+      "fastestLap": 36,
+      "rank": 13,
+      "fastestLapTime": "1:31.904",
+      "fastestLapSpeed": "227.721",
+      "statusId": 1
+    },
+    {
+      "resultId": 14,
+      "raceId": 1,
+      "driverId": 33,
+      "constructorId": 19,
+      "number": 17,
+      "grid": 18,
+      "position": 12,
+      "positionText": "12",
+      "positionOrder": 12,
+      "points": 0.0,
+      "laps": 53,
+      "time": "+30.801s",
+      "milliseconds": null,
+      "fastestLap": 44,
+      "rank": 14,
+      "fastestLapTime": "1:32.791",
+      "fastestLapSpeed": "203.623",
+      "statusId": 3
+    },
+    {
+      "resultId": 15,
+      "raceId": 1,
+      "driverId": 26,
+      "constructorId": 13,
+      "number": 13,
+      "grid": 16,
+      "position": 13,
+      "positionText": "13",
+      "positionOrder": 13,
+      "points": 0.0,
+      "laps": 53,
+      "time": "+14.698s",
+      "milliseconds": null,
+      "fastestLap": 32,
+      "rank": 15,
+      "fastestLapTime": "1:27.627",
+      "fastestLapSpeed": "232.748",
+      "statusId": 2
+    },
+    {
+      "resultId": 16,
+      "raceId": 1,
+      "driverId": 28,
+      "constructorId": 14,
+      "number": 0,
+      "grid": 12,
+      "position": 14,
+      "positionText": "14",
+      "positionOrder": 14,
+      "points": 0.0,
+      "laps": 53,
+      "time": "+14.415s",
+      "milliseconds": null,
+      "fastestLap": 54,
+      "rank": 16,
+      "fastestLapTime": "1:25.788",
+      "fastestLapSpeed": "209.330",
+      "statusId": 3
+    },
+    {
+      "resultId": 17,
+      "raceId": 1,
+      "driverId": 32,
+      "constructorId": 22,
+      "number": 4,
+      "grid": 19,
+      "position": 15,
+      "positionText": "15",
+      "positionOrder": 15,
+      "points": 0.0,
+      "laps": 53,
+      "time": "+51.311s",
+      "milliseconds": null,
+      "fastestLap": 31,
+      "rank": 17,
+      "fastestLapTime": "1:25.586",
+      "fastestLapSpeed": "229.970",
+      "statusId": 1
+    },
+    {
+      "resultId": 18,
+      "raceId": 1,
+      "driverId": 25,
+      "constructorId": 10,
+      "number": 26,
+      "grid": 14,
+      "position": 16,
+      "positionText": "16",
+      "positionOrder": 16,
+      "points": 0.0,
+      "laps": 53,
+      "time": "+3.463s",
+      "milliseconds": null,
+      "fastestLap": 50,
+      "rank": 18,
+      "fastestLapTime": "1:24.835",
+      "fastestLapSpeed": "234.493",
+      "statusId": 1
+    },
+    {
+      "resultId": 19,
+      "raceId": 1,
+      "driverId": 34,
+      "constructorId": 20,
+      "number": 20,
+      "grid": 17,
+      "position": 17,
+      "positionText": "17",
+      "positionOrder": 17,
+      "points": 0.0,
+      "laps": 53,
+      "time": "+47.034s",
+      "milliseconds": null,
+      "fastestLap": 34,
+      "rank": 19,
+      "fastestLapTime": "1:18.868",
+      "fastestLapSpeed": "239.209",
+      "statusId": 2
+    },
+    {
+      "resultId": 20,
+      "raceId": 2,
+      "driverId": 1,
+      "constructorId": 1,
+      "number": 5,
+      "grid": 2,
+      "position": 1,
+      "positionText": "1",
+      "positionOrder": 1,
+      "points": 25.0,
+      "laps": 50,
+      "time": "1:23:29.044",
+      "milliseconds": null,
+      "fastestLap": 30,
+      "rank": 1,
+      "fastestLapTime": "1:22.344",
+      "fastestLapSpeed": "198.584",
+      "statusId": 1
+    },
+    {
+      "resultId": 21,
+      "raceId": 2,
+      "driverId": 6,
+      "constructorId": 3,
+      "number": 19,
+      "grid": 5,
+      "position": null,
+      "positionText": "R",
+      "positionOrder": 21,
+      "points": 0.0,
+      "laps": 7,
+      "time": null,
+      "milliseconds": null,
+      "fastestLap": 48,
+      "rank": 2,
+      "fastestLapTime": "1:24.576",
+      "fastestLapSpeed": "234.362",
+      "statusId": 99
+    },
+    {
+      "resultId": 22,
+      "raceId": 2,
+      "driverId": 4,
+      "constructorId": 1,
+      "number": 2,
+      "grid": 1,
+      "position": null,
+      "positionText": "R",
+      "positionOrder": 22,
+      "points": 0.0,
+      "laps": 23,
+      "time": null,
+      "milliseconds": null,
+      "fastestLap": 35,
+      "rank": 3,
+      "fastestLapTime": "1:21.896",
+      "fastestLapSpeed": "200.418",
+      "statusId": 112
+    },
+    {
+      "resultId": 23,
+      "raceId": 2,
+      "driverId": 5,
+      "constructorId": 4,
+      "number": 22,
+      "grid": 3,
+      "position": 2,
+      "positionText": "2",
+      "positionOrder": 2,
+      "points": 18.0,
+      "laps": 50,
+      "time": "+59.089s",
+      "milliseconds": null,
+      "fastestLap": 30,
+      "rank": 4,
+      "fastestLapTime": "1:27.689",
+      "fastestLapSpeed": "233.484",
+      "statusId": 1
+    },
+    {
+      "resultId": 24,
+      "raceId": 2,
+      "driverId": 3,
+      "constructorId": 3,
+      "number": 14,
+      "grid": 6,
+      "position": 3,
+      "positionText": "3",
+      "positionOrder": 3,
+      "points": 15.0,
+      "laps": 50,
+      "time": "+9.636s",
+      "milliseconds": null,
+      "fastestLap": 36,
+      "rank": 5,
+      "fastestLapTime": "1:20.706",
+      "fastestLapSpeed": "234.950",
+      "statusId": 1
+    },
+    {
+      "resultId": 25,
+      "raceId": 2,
+      "driverId": 8,
+      "constructorId": 2,
+      "number": 6,
+      "grid": 7,
+      "position": 4,
+      "positionText": "4",
+      "positionOrder": 4,
+      "points": 12.0,
+      "laps": 50,
+      "time": "+6.984s",
+      "milliseconds": null,
+      "fastestLap": 54,
+      "rank": 6,
+      "fastestLapTime": "1:27.970",
+      "fastestLapSpeed": "233.714",
+      "statusId": 1
+    },
+    {
+      "resultId": 26,
+      "raceId": 2,
+      "driverId": 26,
+      "constructorId": 13,
+      "number": 13,
+      "grid": 13,
+      "position": 5,
+      "positionText": "5",
+      "positionOrder": 5,
+      "points": 10.0,
+      "laps": 50,
+      "time": "+23.067s",
+      "milliseconds": null,
+      "fastestLap": 31,
+      "rank": 7,
+      "fastestLapTime": "1:29.645",
+      "fastestLapSpeed": "217.777",
+      "statusId": 1
+    },
+    {
+      "resultId": 27,
+      "raceId": 2,
+      "driverId": 25,
+      "constructorId": 10,
+      "number": 26,
+      "grid": 11,
+      "position": 6,
+      "positionText": "6",
+      "positionOrder": 6,
+      "points": 8.0,
+      "laps": 50,
+      "time": "+38.026s",
+      "milliseconds": null,
+      "fastestLap": 50,
+      "rank": 8,
+      "fastestLapTime": "1:28.112",
+      "fastestLapSpeed": "216.942",
+      "statusId": 2
+    },
+    {
+      "resultId": 28,
+      "raceId": 2,
+      "driverId": 2,
+      "constructorId": 4,
+      "number": 44,
+      "grid": 4,
+      "position": 7,
+      "positionText": "7",
+      "positionOrder": 7,
+      "points": 6.0,
+      "laps": 50,
+      "time": "+17.971s",
+      "milliseconds": null,
+      "fastestLap": 41,
+      "rank": 9,
+      "fastestLapTime": "1:32.824",
+      "fastestLapSpeed": "199.545",
+      "statusId": 2
+    },
+    {
+      "resultId": 29,
+      "raceId": 2,
+      "driverId": 29,
+      "constructorId": 8,
+      "number": 40,
+      "grid": 9,
+      "position": 8,
+      "positionText": "8",
+      "positionOrder": 8,
+      "points": 4.0,
+      "laps": 50,
+      "time": "+51.387s",
+      "milliseconds": null,
+      "fastestLap": 38,
+      "rank": 10,
+      "fastestLapTime": "1:35.893",
+      "fastestLapSpeed": "220.576",
+      "statusId": 1
+    },
+    {
+      "resultId": 30,
+      "raceId": 2,
+      "driverId": 32,
+      "constructorId": 22,
+      "number": 4,
+      "grid": 18,
+      "position": 9,
+      "positionText": "9",
+      "positionOrder": 9,
+      "points": 2.0,
+      "laps": 50,
+      "time": "+10.553s",
+      "milliseconds": null,
+      "fastestLap": 37,
+      "rank": 11,
+      "fastestLapTime": "1:20.385",
+      "fastestLapSpeed": "218.349",
+      "statusId": 2
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #2A2A2A #0F0F0F;
+  }
+
+  *::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #0F0F0F;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #2A2A2A;
+    border-radius: 3px;
+  }
+
+  *::-webkit-scrollbar-thumb:hover {
+    background-color: #3A3A3A;
+  }
+
+  body {
+    @apply bg-[#0F0F0F] text-white;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-[#1E1E1E] border border-[#2A2A2A] rounded-xl;
+  }
+
+  .card-hover {
+    @apply card transition-all duration-300 hover:border-[#3A3A3A] hover:shadow-lg hover:shadow-black/20;
+  }
+
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+
+  .badge-red {
+    @apply badge bg-red-500/10 text-red-400 border border-red-500/20;
+  }
+
+  .badge-green {
+    @apply badge bg-green-500/10 text-green-400 border border-green-500/20;
+  }
+
+  .badge-amber {
+    @apply badge bg-amber-500/10 text-amber-400 border border-amber-500/20;
+  }
+
+  .badge-blue {
+    @apply badge bg-blue-500/10 text-blue-400 border border-blue-500/20;
+  }
+
+  .input-dark {
+    @apply bg-[#252525] border border-[#2A2A2A] rounded-lg px-3 py-2 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-[#E10600] focus:ring-1 focus:ring-[#E10600]/30 transition-colors;
+  }
+
+  .btn-primary {
+    @apply bg-[#E10600] hover:bg-[#C00500] text-white font-medium px-4 py-2 rounded-lg transition-colors duration-200 flex items-center gap-2;
+  }
+
+  .btn-secondary {
+    @apply bg-[#252525] hover:bg-[#303030] text-gray-300 font-medium px-4 py-2 rounded-lg border border-[#2A2A2A] transition-colors duration-200 flex items-center gap-2;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-[#E10600] to-[#FF4136];
+  }
+
+  .glow-red {
+    box-shadow: 0 0 20px rgba(225, 6, 0, 0.15);
+  }
+}
+
+/* Recharts tooltip override */
+.recharts-default-tooltip {
+  background-color: #1E1E1E !important;
+  border: 1px solid #2A2A2A !important;
+  border-radius: 8px !important;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4) !important;
+}
+
+.recharts-tooltip-label {
+  color: #ffffff !important;
+  font-weight: 600 !important;
+}
+
+.recharts-tooltip-item {
+  color: #d1d5db !important;
+}
+
+/* Animation for skeleton loading */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #1E1E1E 25%, #2A2A2A 50%, #1E1E1E 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+}

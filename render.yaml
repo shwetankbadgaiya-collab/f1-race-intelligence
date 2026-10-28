@@ -1,0 +1,29 @@
+services:
+  # Backend API Service
+  - type: web
+    name: f1-race-intelligence-backend
+    env: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.2
+      - key: DATABASE_URL
+        value: sqlite:///./data/f1_data.db
+      - key: CORS_ORIGINS
+        value: "*"
+
+  # Frontend Web Service
+  - type: web
+    name: f1-race-intelligence-frontend
+    env: static
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: f1-race-intelligence-backend
+          property: host
